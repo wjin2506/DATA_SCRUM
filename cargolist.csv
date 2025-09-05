@@ -1,0 +1,2714 @@
+ID_No,Guide_No,Name_of_Material
+— —,112,Ammonium nitrate-fuel oil mixtures
+— —,112,"Blasting agent, n.o.s."
+— —,112,"Explosives, division 1.1, 1.2,"
+— —,114,"Explosives, division 1.4 or 1.6"
+1001,116,"Acetylene, dissolved"
+1002,122,"Air, compressed"
+1003,122,"Air, refrigerated liquid"
+1005,125,"Ammonia, anhydrous"
+1005,125,Anhydrous ammonia
+1006,120,Argon
+1006,120,"Argon, compressed"
+1008,125,Boron trifluoride
+1008,125,"Boron trifluoride, compressed"
+1009,126,Bromotrifluoromethane
+1009,126,Refrigerant gas R-13B1
+1010,116P,"Butadienes, stabilized"
+1010,116P,Butadienes and hydrocarbon
+1011,115,Butane
+1012,115,Butylene
+1013,120,Carbon dioxide
+1013,120,"Carbon dioxide, compressed"
+1016,119,"Carbon monoxide, compressed"
+1017,124,Chlorine
+1018,126,Chlorodifluoromethane
+1018,126,Refrigerant gas R-22
+1020,126,Chloropentafluoroethane
+1020,126,Refrigerant gas R-115
+1021,126,"1-Chloro-1,2,2,2-"
+1021,126,Refrigerant gas R-1241022 126 Chlorotrifluoromethane
+1022,126,Refrigerant gas R-13
+1023,119,"Coal gas, compressed"
+1026,119,Cyanogen
+1027,115,Cyclopropane
+1028,126,Dichlorodifluoromethane
+1028,126,Refrigerant gas R-12
+1029,126,Dichlorofluoromethane
+1029,126,Refrigerant gas R-21
+1030,115,"1,1-Difluoroethane"
+1030,115,Refrigerant gas R-152a
+1032,118,"Dimethylamine, anhydrous"
+1033,115,Dimethyl ether
+1035,115,Ethane
+1035,115,"Ethane, compressed"
+1036,118,Ethylamine
+1037,115,Ethyl chloride
+1038,115,"Ethylene, refrigerated liquid"
+1039,115,Ethyl methyl ether
+1039,115,Methyl ethyl ether
+1040,119P,Ethylene oxide
+1040,119P,Ethylene oxide with nitrogen
+1041,115,Ethylene oxide and carbon
+1043,125,"Fertilizer, ammoniating solution,"
+1044,126,Fire extinguishers with
+1045,124,"Fluorine, compressed"
+1046,120,"Helium, compressed"
+1048,125,"Hydrogen bromide, anhydrous"
+1049,115,"Hydrogen, compressed"
+1050,125,"Hydrogen chloride, anhydrous"
+1051,117P,"Hydrogen cyanide, stabilized"
+1052,125,"Hydrogen fluoride, anhydrous"
+1053,117,Hydrogen sulfide
+1053,117,Hydrogen sulphide
+1055,115,Isobutylene
+1056,120,"Krypton, compressed"
+1057,115,Lighter refills containing
+1057,115,Lighters containing flammable
+1057,128,"Lighters, non-pressurized,"
+1058,120,"Liquefied gases, non-"
+1060,116P,Methylacetylene and propadiene
+1061,118,"Methylamine, anhydrous"
+1062,123,Methyl bromide
+1063,115,Methyl chloride
+1063,115,Refrigerant gas R-40
+1064,117,Methyl mercaptan
+1065,120,"Neon, compressed"
+1066,120,"Nitrogen, compressed"
+1067,124,Dinitrogen tetroxide
+1067,124,Nitrogen dioxide
+1069,125,Nitrosyl chloride
+1070,122,Nitrous oxide
+1070,122,"Nitrous oxide, compressed"
+1071,119,"Oil gas, compressed"
+1072,122,"Oxygen, compressed"
+1073,122,"Oxygen, refrigerated liquid"
+1075,115,Butylene
+1075,115,Isobutane
+1075,115,Isobutylene
+1075,115,Liquefied petroleum gas
+1075,115,LPG
+1075,115,"Petroleum gases, liquefied"
+1075,115,Propane
+1075,115,Propylene
+1076,125,Phosgene
+1077,115,Propylene
+1078,126,"Refrigerant gas, n.o.s."
+1079,125,Sulfur dioxide
+1079,125,Sulphur dioxide
+1080,126,Sulfur hexafluoride
+1080,126,Sulphur hexafluoride
+1081,116P,"Tetrafluoroethylene, stabilized"
+1082,119P,Refrigerant gas R-1113
+1082,119P,"Trifluorochloroethylene,"
+1083,118,"Trimethylamine, anhydrous"
+1085,116P,"Vinyl bromide, stabilized"
+1086,116P,"Vinyl chloride, stabilized"
+1087,116P,"Vinyl methyl ether, stabilized"
+1088,127,Acetal
+1089,129P,Acetaldehyde
+1090,127,Acetone
+1091,127,Acetone oils
+1092,131P,"Acrolein, stabilized"
+1093,131P,"Acrylonitrile, stabilized"
+1098,131,Allyl alcohol
+1099,131P,Allyl bromide
+1100,131P,Allyl chloride
+1104,129,Amyl acetates
+1105,129,Pentanols
+1106,132,Amylamine
+1107,129,Amyl chloride
+1108,128,n-Amylene
+1108,128,1-Pentene
+1109,129,Amyl formates
+1110,127,n-Amyl methyl ketone
+1110,127,Methyl amyl ketone
+1111,130,Amyl mercaptan
+1112,128,Amyl nitrate
+1113,129,Amyl nitrite
+1114,130,Benzene
+1120,129,Butanols
+1123,129,Butyl acetates
+1125,132,n-Butylamine
+1126,130,1-Bromobutane
+1126,130,n-Butyl bromide
+1127,130,n-Butyl chloride
+1127,130,Chlorobutanes
+1128,129,n-Butyl formate
+1129,129P,Butyraldehyde
+1130,128,Camphor oil
+1131,131,Carbon bisulfide
+1131,131,Carbon disulfide
+1131,131,Carbon disulphide
+1133,128,Adhesives (flammable)
+1134,130,Chlorobenzene
+1135,131,Ethylene chlorohydrin
+1136,128,"Coal tar distillates, flammable"
+1139,127,Coating solution1143 131P Crotonaldehyde
+1143,131P,"Crotonaldehyde, stabilized"
+1144,128,Crotonylene
+1145,128,Cyclohexane
+1146,128,Cyclopentane
+1147,130,Decahydronaphthalene
+1148,129,Diacetone alcohol
+1149,128,Butyl ethers
+1149,128,Dibutyl ethers
+1150,130P,"1,2-Dichloroethylene"
+1152,130,Dichloropentanes
+1153,127,Ethylene glycol diethyl ether
+1154,132,Diethylamine
+1155,127,Diethyl ether
+1155,127,Ethyl ether
+1156,127,Diethyl ketone
+1157,128,Diisobutyl ketone
+1158,132,Diisopropylamine
+1159,127,Diisopropyl ether
+1160,132,"Dimethylamine, aqueous"
+1160,132,"Dimethylamine, solution"
+1161,129,Dimethyl carbonate
+1162,155,Dimethyldichlorosilane
+1163,131,"Dimethylhydrazine,"
+1164,130,Dimethyl sulfide
+1164,130,Dimethyl sulphide
+1165,127,Dioxane
+1166,127,Dioxolane
+1167,128P,"Divinyl ether, stabilized"
+1169,127,"Extracts, aromatic, liquid"
+1170,127,Ethanol
+1170,127,"Ethanol, solution"
+1170,127,Ethyl alcohol
+1170,127,"Ethyl alcohol, solution"
+1171,127,Ethylene glycol monoethyl ether
+1172,129,Ethylene glycol monoethyl ether
+1173,129,Ethyl acetate
+1175,130,Ethylbenzene
+1176,129,Ethyl borate
+1177,130,2-Ethylbutyl acetate
+1178,130,2-Ethylbutyraldehyde
+1179,127,Ethyl butyl ether
+1180,130,Ethyl butyrate
+1181,155,Ethyl chloroacetate
+1182,155,Ethyl chloroformate
+1183,139,Ethyldichlorosilane
+1184,131,Ethylene dichloride
+1185,131P,"Ethyleneimine, stabilized"
+1188,127,Ethylene glycol monomethyl
+1189,129,Ethylene glycol monomethyl
+1190,129,Ethyl formate
+1191,129,Ethylhexaldehyde
+1191,129,Octyl aldehydes
+1192,129,Ethyl lactate
+1193,127,Ethyl methyl ketone
+1193,127,Methyl ethyl ketone
+1194,131,"Ethyl nitrite, solution"
+1195,129,Ethyl propionate
+1196,155,Ethyltrichlorosilane
+1197,127,"Extracts, flavoring, liquid"
+1197,127,"Extracts, flavouring, liquid1197 127 Extracts, liquid"
+1198,132,"Formaldehyde, solution,"
+1198,132,Formalin (flammable)
+1199,153P,Furaldehydes
+1201,127,Fusel oil
+1202,128,Diesel fuel
+1202,128,Gas oil
+1202,128,"Heating oil, light"
+1203,128,Gasoline
+1203,128,Motor spirit
+1203,128,Petrol
+1204,127,"Nitroglycerin, solution in"
+1206,128,Heptanes
+1207,130,Hexaldehyde
+1208,128,Hexanes
+1208,128,Neohexane
+1210,129,"Printing ink, flammable"
+1210,129,"Printing ink related material,"
+1212,129,Isobutanol
+1212,129,Isobutyl alcohol
+1213,129,Isobutyl acetate
+1214,132,Isobutylamine
+1216,128,Isooctenes
+1218,130P,"Isoprene, stabilized"
+1219,129,Isopropanol
+1219,129,Isopropyl alcohol
+1220,129,Isopropyl acetate
+1221,132,Isopropylamine
+1222,130,Isopropyl nitrate
+1223,128,Kerosene
+1224,127,"Ketones, liquid, n.o.s."
+1228,131,"Mercaptan mixture, liquid,"
+1228,131,"Mercaptan mixture, liquid,"
+1228,131,"Mercaptans, liquid, flammable,"
+1228,131,"Mercaptans, liquid, flammable,"
+1229,129,Mesityl oxide
+1230,131,Methanol
+1230,131,Methyl alcohol
+1231,129,Methyl acetate
+1233,130,Methylamyl acetate
+1234,127,Methylal
+1235,132,"Methylamine, aqueous solution"
+1237,129,Methyl butyrate
+1238,155,Methyl chloroformate
+1239,131,Methyl chloromethyl ether
+1242,139,Methyldichlorosilane
+1243,129,Methyl formate
+1244,131,Methylhydrazine
+1245,127,Methyl isobutyl ketone
+1246,127P,"Methyl isopropenyl ketone,"
+1247,129P,"Methyl methacrylate monomer,"
+1248,129,Methyl propionate
+1249,127,Methyl propyl ketone
+1250,155,Methyltrichlorosilane
+1251,131P,"Methyl vinyl ketone, stabilized"
+1259,131,Nickel carbonyl
+1261,129,Nitromethane
+1262,128,Isooctane1262 128 Octanes
+1263,128,Paint (flammable)
+1263,128,Paint related material
+1264,129,Paraldehyde
+1265,128,Isopentane
+1265,128,Pentanes
+1266,127,"Perfumery products, with"
+1267,128,Petroleum crude oil
+1268,128,"Petroleum distillates, n.o.s."
+1268,128,"Petroleum products, n.o.s."
+1270,128,Petroleum oil
+1272,129,Pine oil
+1274,129,n-Propanol
+1274,129,"Propyl alcohol, normal"
+1275,129P,Propionaldehyde
+1276,129,n-Propyl acetate
+1277,132,Propylamine
+1278,129,1-Chloropropane
+1278,129,Propyl chloride
+1279,130,"1,2-Dichloropropane"
+1280,127P,Propylene oxide
+1281,129,Propyl formates
+1282,129,Pyridine
+1286,127,Rosin oil
+1287,127,Rubber solution
+1288,128,Shale oil
+1289,132,"Sodium methylate, solution in"
+1292,129,Ethyl silicate
+1292,129,Tetraethyl silicate
+1293,127,"Tinctures, medicinal"
+1294,130,Toluene
+1295,139,Trichlorosilane
+1296,132,Triethylamine
+1297,132,"Trimethylamine, aqueous"
+1298,155,Trimethylchlorosilane
+1299,128,Turpentine
+1300,128,Turpentine substitute
+1301,129P,"Vinyl acetate, stabilized"
+1302,127P,"Vinyl ethyl ether, stabilized"
+1303,130P,"Vinylidene chloride, stabilized"
+1304,127P,"Vinyl isobutyl ether, stabilized"
+1305,155P,Vinyltrichlorosilane
+1306,129,"Wood preservatives, liquid"
+1307,130,Xylenes
+1308,170,Zirconium suspended in a
+1308,170,Zirconium suspended in a liquid
+1309,170,"Aluminum powder, coated"
+1310,113,"Ammonium picrate, wetted with"
+1312,133,Borneol
+1313,133,Calcium resinate
+1314,133,"Calcium resinate, fused"
+1318,133,"Cobalt resinate, precipitated"
+1320,113,"Dinitrophenol, wetted with not"
+1321,113,"Dinitrophenolates, wetted with"
+1322,113,"Dinitroresorcinol, wetted with"
+1323,170,Ferrocerium
+1324,133,"Films, nitrocellulose base"
+1325,133,"Flammable solid, organic, n.o.s.1325 133 Fusee (railway or highway)"
+1326,170,"Hafnium powder, wetted with"
+1327,133,"Bhusa, wet, damp or"
+1327,133,"Hay, wet, damp or contaminated"
+1327,133,"Straw, wet, damp or"
+1328,133,Hexamethylenetetramine
+1330,133,Manganese resinate
+1331,133,"Matches, “strike anywhere”"
+1332,133,Metaldehyde
+1333,170,"Cerium, slabs, ingots or rods"
+1334,133,"Naphthalene, crude"
+1334,133,"Naphthalene, refined"
+1336,113,"Nitroguanidine, wetted with not"
+1336,113,"Picrite, wetted with not less"
+1337,113,"Nitrostarch, wetted with not less"
+1338,133,"Phosphorus, amorphous"
+1338,133,Red phosphorus
+1339,139,"Phosphorus heptasulfide,"
+1339,139,"Phosphorus heptasulphide,"
+1340,139,"Phosphorus pentasulfide,"
+1340,139,"Phosphorus pentasulphide,"
+1341,139,"Phosphorus sesquisulfide,"
+1341,139,"Phosphorus sesquisulphide,"
+1343,139,"Phosphorus trisulfide, free from"
+1343,139,"Phosphorus trisulphide, free"
+1344,113,"Picric acid, wetted with not less"
+1344,113,"Trinitrophenol, wetted with not"
+1345,133,"Rubber scrap, powdered or"
+1345,133,"Rubber shoddy, powdered or"
+1346,170,"Silicon powder, amorphous"
+1347,113,"Silver picrate, wetted with not"
+1348,113,"Sodium dinitro-o-cresolate,"
+1349,113,"Sodium picramate, wetted with"
+1350,133,Sulfur
+1350,133,Sulphur
+1352,170,"Titanium powder, wetted with"
+1353,133,Fabrics impregnated with
+1353,133,Fibers impregnated with weakly
+1353,133,Fibres impregnated with weakly
+1354,113,"Trinitrobenzene, wetted with not"
+1355,113,"Trinitrobenzoic acid, wetted with"
+1356,113,"Trinitrotoluene, wetted with not"
+1357,113,"Urea nitrate, wetted with not"
+1358,170,"Zirconium powder, wetted with"
+1360,139,Calcium phosphide
+1361,133,"Carbon, animal or vegetable"
+1361,133,Charcoal
+1362,133,"Carbon, activated"
+1363,135,Copra
+1364,133,"Cotton waste, oily"
+1365,133,Cotton
+1365,133,"Cotton, wet"
+1369,135,p-Nitrosodimethylaniline
+1372,133,"Fibers, animal or vegetable,"
+1372,133,"Fibres, animal or vegetable,"
+1373,133,"Fabrics, animal or vegetable or"
+1373,133,"Fibers, animal or vegetable or"
+1373,133,"Fibres, animal or vegetable or"
+1374,133,"Fish meal, unstabilized"
+1374,133,"Fish scrap, unstabilized"
+1376,135,"Iron oxide, spent"
+1376,135,"Iron sponge, spent"
+1378,170,"Metal catalyst, wetted"
+1379,133,"Paper, unsaturated oil treated"
+1380,135,Pentaborane
+1381,136,"Phosphorus, white, dry or under"
+1381,136,"Phosphorus, yellow, dry or"
+1381,136,"White phosphorus, dry or under"
+1381,136,"Yellow phosphorus, dry or under"
+1382,135,"Potassium sulfide, anhydrous"
+1382,135,"Potassium sulfide, with"
+1382,135,"Potassium sulphide, anhydrous"
+1382,135,"Potassium sulphide, with"
+1383,135,"Aluminum powder, pyrophoric"
+1383,135,"Pyrophoric alloy, n.o.s."
+1383,135,"Pyrophoric metal, n.o.s."
+1384,135,Sodium dithionite
+1384,135,Sodium hydrosulfite
+1384,135,Sodium hydrosulphite
+1385,135,"Sodium sulfide, anhydrous"
+1385,135,"Sodium sulfide, with less than"
+1385,135,"Sodium sulphide, anhydrous"
+1385,135,"Sodium sulphide, with less than"
+1386,135,"Seed cake, with more than 1.5%"
+1387,133,"Wool waste, wet"
+1389,138,"Alkali metal amalgam, liquid"
+1390,139,Alkali metal amides
+1391,138,Alkali metal dispersion
+1391,138,"Alkaline earth metal dispersion1392 138 Alkaline earth metal amalgam,"
+1393,138,"Alkaline earth metal alloy, n.o.s."
+1394,138,Aluminum carbide
+1395,139,Aluminum ferrosilicon powder
+1396,138,"Aluminum powder, uncoated"
+1397,139,Aluminum phosphide
+1398,138,"Aluminum silicon powder,"
+1400,138,Barium
+1401,138,Calcium
+1402,138,Calcium carbide
+1403,138,"Calcium cyanamide, with more"
+1404,138,Calcium hydride
+1405,138,Calcium silicide
+1407,138,Caesium
+1407,138,Cesium
+1408,139,Ferrosilicon
+1409,138,"Metal hydrides, water-reactive,"
+1410,138,Lithium aluminum hydride
+1411,138,"Lithium aluminum hydride,"
+1413,138,Lithium borohydride
+1414,138,Lithium hydride
+1415,138,Lithium
+1417,138,Lithium silicon
+1418,138,Magnesium alloys powder
+1418,138,Magnesium powder
+1419,139,Magnesium aluminum
+1420,138,"Potassium metal alloys, liquid"
+1421,138,"Alkali metal alloy, liquid, n.o.s."
+1422,138,"Potassium sodium alloys, liquid"
+1423,138,Rubidium
+1426,138,Sodium borohydride
+1427,138,Sodium hydride
+1428,138,Sodium
+1431,138,"Sodium methylate, dry"
+1432,139,Sodium phosphide
+1433,139,Stannic phosphides
+1435,138,Zinc ashes
+1435,138,Zinc dross
+1435,138,Zinc residue
+1435,138,Zinc skimmings
+1436,138,Zinc dust
+1436,138,Zinc powder
+1437,138,Zirconium hydride
+1438,140,Aluminum nitrate
+1439,141,Ammonium dichromate
+1442,143,Ammonium perchlorate
+1444,140,Ammonium persulfate
+1444,140,Ammonium persulphate
+1445,141,"Barium chlorate, solid"
+1446,141,Barium nitrate
+1447,141,"Barium perchlorate, solid"
+1448,141,Barium permanganate
+1449,141,Barium peroxide
+1450,140,"Bromates, inorganic, n.o.s."
+1451,140,Caesium nitrate
+1451,140,Cesium nitrate
+1452,140,Calcium chlorate
+1453,140,Calcium chlorite
+1454,140,Calcium nitrate
+1455,140,Calcium perchlorate1456 140 Calcium permanganate
+1457,140,Calcium peroxide
+1458,140,Chlorate and borate mixture
+1459,140,Chlorate and magnesium
+1461,140,"Chlorates, inorganic, n.o.s."
+1462,143,"Chlorites, inorganic, n.o.s."
+1463,141,"Chromium trioxide, anhydrous"
+1465,140,Didymium nitrate
+1466,140,Ferric nitrate
+1467,143,Guanidine nitrate
+1469,141,Lead nitrate
+1470,141,"Lead perchlorate, solid"
+1471,140,"Lithium hypochlorite, dry"
+1471,140,Lithium hypochlorite mixture
+1472,143,Lithium peroxide
+1473,140,Magnesium bromate
+1474,140,Magnesium nitrate
+1475,140,Magnesium perchlorate
+1476,140,Magnesium peroxide
+1477,140,"Nitrates, inorganic, n.o.s."
+1479,140,"Oxidizing solid, n.o.s."
+1481,140,"Perchlorates, inorganic, n.o.s."
+1482,140,"Permanganates, inorganic,"
+1483,140,"Peroxides, inorganic, n.o.s."
+1484,140,Potassium bromate
+1485,140,Potassium chlorate
+1486,140,Potassium nitrate
+1487,140,Potassium nitrate and sodium
+1488,140,Potassium nitrite
+1489,140,Potassium perchlorate
+1490,140,Potassium permanganate
+1491,144,Potassium peroxide
+1492,140,Potassium persulfate
+1492,140,Potassium persulphate
+1493,140,Silver nitrate
+1494,140,Sodium bromate
+1495,140,Sodium chlorate
+1496,143,Sodium chlorite
+1498,140,Sodium nitrate
+1499,140,Sodium nitrate and potassium
+1500,141,Sodium nitrite
+1502,140,Sodium perchlorate
+1503,140,Sodium permanganate
+1504,144,Sodium peroxide
+1505,140,Sodium persulfate
+1505,140,Sodium persulphate
+1506,143,Strontium chlorate
+1507,140,Strontium nitrate
+1508,140,Strontium perchlorate
+1509,143,Strontium peroxide
+1510,143,Tetranitromethane
+1511,140,Urea hydrogen peroxide
+1512,140,Zinc ammonium nitrite
+1513,140,Zinc chlorate
+1514,140,Zinc nitrate
+1515,140,Zinc permanganate
+1516,143,Zinc peroxide
+1517,113,"Zirconium picramate, wetted"
+1541,156,"Acetone cyanohydrin, stabilized"
+1544,151,"Alkaloids, solid, n.o.s."
+1545,131,"Allyl isothiocyanate, stabilized"
+1546,151,Ammonium arsenate
+1547,153,Aniline
+1548,153,Aniline hydrochloride
+1549,157,"Antimony compound, inorganic,"
+1550,151,Antimony lactate
+1551,151,Antimony potassium tartrate
+1553,154,"Arsenic acid, liquid"
+1554,154,"Arsenic acid, solid"
+1555,151,Arsenic bromide
+1556,152,"Arsenic compound, liquid, n.o.s."
+1556,152,Methyldichloroarsine
+1557,152,"Arsenic compound, solid, n.o.s."
+1558,152,Arsenic
+1559,151,Arsenic pentoxide
+1560,157,Arsenic chloride
+1560,157,Arsenic trichloride
+1561,151,Arsenic trioxide
+1562,152,Arsenical dust
+1564,154,"Barium compound, n.o.s."
+1565,157,Barium cyanide
+1566,154,"Beryllium compound, n.o.s."
+1567,134,Beryllium powder
+1569,131,Bromoacetone
+1570,151,Brucine
+1571,113,"Barium azide, wetted with not"
+1572,151,Cacodylic acid
+1573,151,Calcium arsenate
+1574,151,Calcium arsenate and calcium
+1575,157,Calcium cyanide
+1577,153,"Chlorodinitrobenzenes, liquid"
+1578,152,"Chloronitrobenzenes, solid"
+1579,153,4-Chloro-o-toluidine
+1580,154,Chloropicrin
+1581,123,Chloropicrin and methyl bromide
+1582,119,Chloropicrin and methyl chloride
+1583,154,"Chloropicrin mixture, n.o.s."
+1585,151,Copper acetoarsenite
+1586,151,Copper arsenite
+1587,151,Copper cyanide
+1588,157,"Cyanides, inorganic, solid,"
+1589,125,"Cyanogen chloride, stabilized"
+1590,153,"Dichloroanilines, liquid"
+1591,152,o-Dichlorobenzene
+1593,160,Dichloromethane
+1593,160,Methylene chloride
+1594,152,Diethyl sulfate
+1594,152,Diethyl sulphate
+1595,156,Dimethyl sulfate
+1595,156,Dimethyl sulphate
+1596,153,Dinitroanilines
+1597,152,"Dinitrobenzenes, liquid"
+1598,153,Dinitro-o-cresol
+1599,153,"Dinitrophenol, solution"
+1600,152,"Dinitrotoluenes, molten"
+1601,151,"Disinfectant, solid, poisonous,"
+1602,151,"Dye, liquid, poisonous, n.o.s."
+1602,151,"Dye, liquid, toxic, n.o.s."
+1602,151,"Dye intermediate, liquid,"
+1602,151,"Dye intermediate, liquid, toxic,"
+1603,155,Ethyl bromoacetate
+1604,132,Ethylenediamine
+1605,154,Ethylene dibromide
+1606,151,Ferric arsenate
+1607,151,Ferric arsenite
+1608,151,Ferrous arsenate
+1611,151,Hexaethyl tetraphosphate
+1612,123,Hexaethyl tetraphosphate and
+1613,154,"Hydrocyanic acid, aqueous"
+1613,154,"Hydrocyanic acid, aqueous"
+1613,154,"Hydrogen cyanide, aqueous"
+1614,152,"Hydrogen cyanide, stabilized"
+1616,151,Lead acetate
+1617,151,Lead arsenates
+1618,151,Lead arsenites
+1620,151,Lead cyanide
+1621,151,London purple
+1622,151,Magnesium arsenate
+1623,151,Mercuric arsenate
+1624,154,Mercuric chloride
+1625,141,Mercuric nitrate
+1626,157,Mercuric potassium cyanide
+1627,141,Mercurous nitrate
+1629,151,Mercury acetate
+1630,151,Mercury ammonium chloride
+1631,154,Mercury benzoate
+1634,154,Mercury bromides
+1636,154,Mercury cyanide
+1637,151,Mercury gluconate
+1638,151,Mercury iodide
+1639,151,Mercury nucleate
+1640,151,Mercury oleate
+1641,151,Mercury oxide
+1642,151,"Mercury oxycyanide,"
+1643,151,Mercury potassium iodide
+1644,151,Mercury salicylate
+1645,151,Mercury sulfate
+1645,151,Mercury sulphate
+1646,151,Mercury thiocyanate
+1647,151,Methyl bromide and ethylene
+1648,127,Acetonitrile
+1649,152,Motor fuel anti-knock mixture
+1650,153,"beta-Naphthylamine, solid"
+1650,153,"Naphthylamine (beta), solid"
+1651,153,Naphthylthiourea
+1652,153,Naphthylurea
+1653,151,Nickel cyanide
+1654,151,Nicotine
+1655,151,"Nicotine compound, solid, n.o.s."
+1655,151,"Nicotine preparation, solid,"
+1656,151,"Nicotine hydrochloride, liquid1656 151 Nicotine hydrochloride, solution"
+1657,151,Nicotine salicylate
+1658,151,"Nicotine sulfate, solution"
+1658,151,"Nicotine sulphate, solution"
+1659,151,Nicotine tartrate
+1660,124,"Nitric oxide, compressed"
+1661,153,Nitroanilines
+1662,152,Nitrobenzene
+1663,153,Nitrophenols
+1664,152,"Nitrotoluenes, liquid"
+1665,152,"Nitroxylenes, liquid"
+1669,151,Pentachloroethane
+1670,157,Perchloromethyl mercaptan
+1671,153,"Phenol, solid"
+1672,151,Phenylcarbylamine chloride
+1673,153,Phenylenediamines
+1674,151,Phenylmercuric acetate
+1677,151,Potassium arsenate
+1678,154,Potassium arsenite
+1679,157,Potassium cuprocyanide
+1680,157,"Potassium cyanide, solid"
+1683,151,Silver arsenite
+1684,151,Silver cyanide
+1685,151,Sodium arsenate
+1686,154,"Sodium arsenite, aqueous"
+1687,153,Sodium azide
+1688,152,Sodium cacodylate
+1689,157,"Sodium cyanide, solid"
+1690,154,"Sodium fluoride, solid"
+1691,151,Strontium arsenite
+1692,151,Strychnine
+1692,151,Strychnine salts
+1693,159,Tear gas devices
+1693,159,"Tear gas substance, liquid,"
+1694,159,"Bromobenzyl cyanides, liquid"
+1695,131,"Chloroacetone, stabilized"
+1697,153,"Chloroacetophenone, solid"
+1698,154,Diphenylamine chloroarsine
+1699,151,"Diphenylchloroarsine, liquid"
+1700,159,Tear gas candles
+1700,159,Tear gas grenades
+1701,152,"Xylyl bromide, liquid"
+1702,151,"1,1,2,2-Tetrachloroethane"
+1704,153,Tetraethyl dithiopyrophosphate
+1707,151,"Thallium compound, n.o.s."
+1708,153,"Toluidines, liquid"
+1709,151,"2,4-Toluenediamine, solid"
+1709,151,"2,4-Toluylenediamine, solid"
+1710,160,Trichloroethylene
+1711,153,"Xylidines, liquid"
+1712,151,Zinc arsenate
+1712,151,Zinc arsenate and zinc arsenite
+1712,151,Zinc arsenite
+1713,151,Zinc cyanide
+1714,139,Zinc phosphide
+1715,137,Acetic anhydride
+1716,156,Acetyl bromide
+1717,155,Acetyl chloride
+1718,153,Acid butyl phosphate
+1718,153,Butyl acid phosphate
+1719,154,"Caustic alkali liquid, n.o.s."
+1722,155,Allyl chlorocarbonate1722 155 Allyl chloroformate
+1723,132,Allyl iodide
+1724,155,"Allyltrichlorosilane, stabilized"
+1725,137,"Aluminum bromide, anhydrous"
+1726,137,"Aluminum chloride, anhydrous"
+1727,154,"Ammonium bifluoride, solid"
+1727,154,"Ammonium hydrogendifluoride,"
+1728,156,Amyltrichlorosilane
+1729,156,Anisoyl chloride
+1730,157,"Antimony pentachloride, liquid"
+1731,157,"Antimony pentachloride,"
+1732,157,Antimony pentafluoride
+1733,157,Antimony trichloride
+1733,157,"Antimony trichloride, liquid"
+1733,157,"Antimony trichloride, solid"
+1736,137,Benzoyl chloride
+1737,156,Benzyl bromide
+1738,156,Benzyl chloride
+1739,137,Benzyl chloroformate
+1740,154,"Hydrogendifluorides, solid,"
+1741,125,Boron trichloride
+1742,157,Boron trifluoride acetic acid
+1743,157,Boron trifluoride propionic acid
+1744,154,Bromine
+1744,154,"Bromine, solution"
+1744,154,"Bromine, solution (Inhalation"
+1744,154,"Bromine, solution (Inhalation"
+1745,144,Bromine pentafluoride
+1746,144,Bromine trifluoride
+1747,155,Butyltrichlorosilane
+1748,140,"Calcium hypochlorite, dry"
+1748,140,"Calcium hypochlorite mixture,"
+1749,124,Chlorine trifluoride
+1750,153,"Chloroacetic acid, solution"
+1751,153,"Chloroacetic acid, solid"
+1752,156,Chloroacetyl chloride
+1753,156,Chlorophenyltrichlorosilane
+1754,137,Chlorosulfonic acid (with or
+1754,137,Chlorosulphonic acid (with or
+1755,154,"Chromic acid, solution"
+1756,154,"Chromic fluoride, solid"
+1757,154,"Chromic fluoride, solution"
+1758,137,Chromium oxychloride
+1759,154,"Corrosive solid, n.o.s."
+1759,154,"Ferrous chloride, solid"
+1760,154,Chemical kit
+1760,154,"Compounds, cleaning  liquid"
+1760,154,"Compounds, tree or weed"
+1760,154,"Corrosive liquid, n.o.s."
+1760,154,"Ferrous chloride, solution"
+1761,154,"Cupriethylenediamine, solution"
+1762,156,Cyclohexenyltrichlorosilane
+1763,156,Cyclohexyltrichlorosilane
+1764,153,Dichloroacetic acid
+1765,156,Dichloroacetyl chloride
+1766,156,Dichlorophenyltrichlorosilane1767 155 Diethyldichlorosilane
+1768,154,"Difluorophosphoric acid,"
+1769,156,Diphenyldichlorosilane
+1770,153,Diphenylmethyl bromide
+1771,156,Dodecyltrichlorosilane
+1773,157,"Ferric chloride, anhydrous"
+1774,154,"Fire extinguisher charges,"
+1775,154,Fluoroboric acid
+1776,154,"Fluorophosphoric acid,"
+1777,137,Fluorosulfonic acid
+1777,137,Fluorosulphonic acid
+1778,154,Fluorosilicic acid
+1778,154,Hydrofluorosilicic acid
+1779,153,Formic acid
+1779,153,"Formic acid, with more than"
+1780,156,Fumaryl chloride
+1781,156,Hexadecyltrichlorosilane
+1782,154,Hexafluorophosphoric acid
+1783,153,"Hexamethylenediamine, solution"
+1784,156,Hexyltrichlorosilane
+1786,157,Hydrofluoric acid and sulfuric
+1786,157,Hydrofluoric acid and sulphuric
+1786,157,Sulfuric acid and hydrofluoric
+1786,157,Sulphuric acid and hydrofluoric
+1787,154,Hydriodic acid
+1788,154,Hydrobromic acid
+1789,157,Hydrochloric acid
+1789,157,Muriatic acid
+1790,157,Hydrofluoric acid
+1791,154,Hypochlorite solution
+1791,154,Sodium hypochlorite
+1792,157,"Iodine monochloride, solid"
+1793,153,Isopropyl acid phosphate
+1794,154,"Lead sulfate, with more than"
+1794,154,"Lead sulphate, with more than"
+1796,157,Nitrating acid mixture with more
+1796,157,Nitrating acid mixture with not
+1798,157,Aqua regia
+1798,157,Nitrohydrochloric acid
+1799,156,Nonyltrichlorosilane
+1800,156,Octadecyltrichlorosilane
+1801,156,Octyltrichlorosilane
+1802,157,"Perchloric acid, with not more"
+1803,153,"Phenolsulfonic acid, liquid"
+1803,153,"Phenolsulphonic acid, liquid"
+1804,156,Phenyltrichlorosilane
+1805,154,"Phosphoric acid, solution"
+1806,137,Phosphorus pentachloride
+1807,137,Phosphorus pentoxide
+1808,137,Phosphorus tribromide
+1809,137,Phosphorus trichloride
+1810,137,Phosphorus oxychloride
+1811,154,"Potassium hydrogen difluoride,"
+1812,154,"Potassium fluoride, solid"
+1813,154,"Caustic potash, solid1813 154 Potassium hydroxide, solid"
+1814,154,"Caustic potash, solution"
+1814,154,"Potassium hydroxide, solution"
+1815,155,Propionyl chloride
+1816,155,Propyltrichlorosilane
+1817,137,Pyrosulfuryl chloride
+1817,137,Pyrosulphuryl chloride
+1818,157,Silicon tetrachloride
+1819,154,"Sodium aluminate, solution"
+1823,154,"Caustic soda, solid"
+1823,154,"Sodium hydroxide, solid"
+1824,154,"Caustic soda, solution"
+1824,154,"Sodium hydroxide, solution"
+1825,157,Sodium monoxide
+1826,157,"Nitrating acid mixture, spent,"
+1826,157,"Nitrating acid mixture, spent,"
+1827,137,"Stannic chloride, anhydrous"
+1827,137,Tin tetrachloride
+1828,137,Sulfur chlorides
+1828,137,Sulphur chlorides
+1829,137,"Sulfur trioxide, stabilized"
+1829,137,"Sulphur trioxide, stabilized"
+1830,137,Sulfuric acid
+1830,137,"Sulfuric acid, with more than"
+1830,137,Sulphuric acid
+1830,137,"Sulphuric acid, with more than"
+1831,137,"Sulfuric acid, fuming"
+1831,137,"Sulphuric acid, fuming"
+1832,137,"Sulfuric acid, spent"
+1832,137,"Sulphuric acid, spent"
+1833,154,Sulfurous acid
+1833,154,Sulphurous acid
+1834,137,Sulfuryl chloride
+1834,137,Sulphuryl chloride
+1835,153,Tetramethylammonium hydroxide
+1835,153,Tetramethylammonium
+1836,137,Thionyl chloride
+1837,157,Thiophosphoryl chloride
+1838,137,Titanium tetrachloride
+1839,153,Trichloroacetic acid
+1840,154,"Zinc chloride, solution"
+1841,171,Acetaldehyde ammonia
+1843,141,"Ammonium dinitro-o-cresolate,"
+1845,120,"Carbon dioxide, solid"
+1845,120,Dry ice
+1846,151,Carbon tetrachloride
+1847,153,"Potassium sulfide, hydrated,"
+1847,153,"Potassium sulphide, hydrated,"
+1848,153,Propionic acid
+1848,153,"Propionic acid, with not less"
+1849,153,"Sodium sulfide, hydrated, with"
+1849,153,"Sodium sulphide, hydrated, with"
+1851,151,"Medicine, liquid, toxic, n.o.s."
+1854,135,"Barium alloys, pyrophoric"
+1855,135,"Calcium, pyrophoric"
+1855,135,"Calcium alloys, pyrophoric"
+1856,133,"Rags, oily"
+1857,133,"Textile waste, wet"
+1858,126,Hexafluoropropylene
+1858,126,"Hexafluoropropylene,"
+1858,126,Refrigerant gas R-1216
+1859,125,Silicon tetrafluoride
+1859,125,"Silicon tetrafluoride,"
+1860,116P,"Vinyl fluoride, stabilized"
+1862,130,Ethyl crotonate
+1863,128,"Fuel, aviation, turbine engine"
+1865,128,n-Propyl nitrate
+1866,128,Resin solution
+1868,134,Decaborane
+1869,138,Magnesium
+1869,138,"Magnesium, in pellets, turnings"
+1869,138,"Magnesium alloys, with more"
+1870,138,Potassium borohydride
+1871,170,Titanium hydride
+1872,140,Lead dioxide
+1873,143,"Perchloric acid, with more than"
+1884,157,Barium oxide
+1885,153,Benzidine
+1886,156,Benzylidene chloride
+1887,160,Bromochloromethane
+1888,151,Chloroform
+1889,157,Cyanogen bromide
+1891,131,Ethyl bromide
+1892,151,Ethyldichloroarsine
+1894,151,Phenylmercuric hydroxide
+1895,151,Phenylmercuric nitrate
+1897,160,Perchloroethylene
+1897,160,Tetrachloroethylene
+1898,156,Acetyl iodide
+1902,153,Diisooctyl acid phosphate
+1903,153,"Disinfectant, liquid, corrosive,"
+1905,154,Selenic acid
+1906,153,"Acid, sludge"
+1906,153,Sludge acid
+1907,154,"Soda lime, with more than 4%"
+1908,154,Chlorite solution
+1910,157,Calcium oxide
+1911,119,Diborane
+1911,119,Diborane mixtures
+1912,115,Methyl chloride and methylene
+1913,120,"Neon, refrigerated liquid"
+1914,130,Butyl propionates
+1915,127,Cyclohexanone
+1916,152,"2,2'-Dichlorodiethyl ether"
+1916,152,Dichloroethyl ether
+1917,129P,"Ethyl acrylate, stabilized"
+1918,130,Cumene
+1918,130,"Isopropylbenzene1919 129P Methyl acrylate, stabilized"
+1920,128,Nonanes
+1921,131P,"Propyleneimine, stabilized"
+1922,132,Pyrrolidine
+1923,135,Calcium dithionite
+1923,135,Calcium hydrosulfite
+1923,135,Calcium hydrosulphite
+1928,138,Methyl magnesium bromide in
+1929,135,Potassium dithionite
+1929,135,Potassium hydrosulfite
+1929,135,Potassium hydrosulphite
+1931,171,Zinc dithionite
+1931,171,Zinc hydrosulfite
+1931,171,Zinc hydrosulphite
+1932,135,Zirconium scrap
+1935,157,"Cyanide solution, n.o.s."
+1938,156,"Bromoacetic acid, solution"
+1939,137,"Phosphorus oxybromide, solid"
+1940,153,Thioglycolic acid
+1941,171,Dibromodifluoromethane
+1941,171,Refrigerant gas R-12B2
+1942,140,"Ammonium nitrate, with not"
+1944,133,"Matches, safety"
+1945,133,"Matches, wax “vesta”"
+1950,126,Aerosols
+1951,120,"Argon, refrigerated liquid"
+1952,126,Ethylene oxide and carbon
+1953,119,"Compressed gas, poisonous,"
+1953,119,"Compressed gas, poisonous,"
+1953,119,"Compressed gas, poisonous,"
+1953,119,"Compressed gas, poisonous,"
+1953,119,"Compressed gas, poisonous,"
+1953,119,"Compressed gas, toxic,"
+1953,119,"Compressed gas, toxic,"
+1953,119,"Compressed gas, toxic,"
+1953,119,"Compressed gas, toxic,"
+1953,119,"Compressed gas, toxic,"
+1954,115,"Compressed gas, flammable,"
+1954,115,"Dispersant gases, n.o.s."
+1954,115,"Refrigerant gases, n.o.s."
+1955,123,"Compressed gas, poisonous,"
+1955,123,"Compressed gas, poisonous,"
+1955,123,"Compressed gas, poisonous,"
+1955,123,"Compressed gas, poisonous,"
+1955,123,"Compressed gas, toxic, n.o.s."
+1955,123,"Compressed gas, toxic, n.o.s."
+1955,123,"Compressed gas, toxic, n.o.s."
+1955,123,"Compressed gas, toxic, n.o.s."
+1955,123,"Compressed gas, toxic, n.o.s."
+1955,123,Organic phosphate compound
+1955,123,Organic phosphate mixed with
+1955,123,Organic phosphorus compound
+1956,126,"Compressed gas, n.o.s."
+1957,115,"Deuterium, compressed"
+1958,126,"1,2-Dichloro-1,1,2,2-"
+1958,126,Refrigerant gas R-114
+1959,116P,"1,1-Difluoroethylene"
+1959,116P,Refrigerant gas R-1132a
+1961,115,"Ethane, refrigerated liquid"
+1961,115,"Ethane-propane mixture,"
+1962,116P,Ethylene
+1962,116P,"Ethylene, compressed"
+1963,120,"Helium, refrigerated liquid"
+1964,115,"Hydrocarbon gas mixture,"
+1965,115,"Hydrocarbon gas mixture,"
+1966,115,"Hydrogen, refrigerated liquid"
+1967,123,"Insecticide gas, poisonous,"
+1967,123,"Insecticide gas, toxic, n.o.s."
+1967,123,Parathion and compressed gas
+1968,126,"Insecticide gas, n.o.s."
+1969,115,Isobutane
+1970,120,"Krypton, refrigerated liquid"
+1971,115,"Methane, compressed"
+1971,115,"Natural gas, compressed"
+1972,115,Liquefied natural gas (cryogenic
+1972,115,LNG (cryogenic liquid)
+1972,115,"Methane, refrigerated liquid"
+1972,115,"Natural gas, refrigerated liquid"
+1973,126,Chlorodifluoromethane and
+1973,126,Refrigerant gas R-502
+1974,126,Chlorodifluorobromomethane
+1974,126,Refrigerant gas R-12B1
+1975,124,Nitric oxide and dinitrogen
+1975,124,Nitric oxide and nitrogen dioxide
+1976,126,Octafluorocyclobutane
+1976,126,Refrigerant gas RC-318
+1977,120,"Nitrogen, refrigerated liquid"
+1978,115,Propane
+1982,126,Refrigerant gas R-14
+1982,126,Tetrafluoromethane
+1983,126,"1-Chloro-2,2,2-trifluoroethane1983 126 Refrigerant gas R-133a"
+1984,126,Refrigerant gas R-23
+1984,126,Trifluoromethane
+1986,131,"Alcohols, flammable, poisonous,"
+1986,131,"Alcohols, flammable, toxic,"
+1987,127,"Alcohols, n.o.s."
+1987,127,Denatured alcohol
+1988,131P,"Aldehydes, flammable,"
+1988,131P,"Aldehydes, flammable, toxic,"
+1989,129P,"Aldehydes, n.o.s."
+1990,171,Benzaldehyde
+1991,131P,"Chloroprene, stabilized"
+1992,131,"Flammable liquid, poisonous,"
+1992,131,"Flammable liquid, toxic, n.o.s."
+1993,128,"Combustible liquid, n.o.s."
+1993,128,"Compounds, cleaning liquid"
+1993,128,"Compounds, tree or weed"
+1993,128,Diesel fuel
+1993,128,"Flammable liquid, n.o.s."
+1993,128,Fuel oil
+1994,136,Iron pentacarbonyl
+1999,130,Asphalt
+1999,130,"Asphalt, cut back"
+1999,130,"Tars, liquid"
+2000,133,"Celluloid, in block, rods, rolls,"
+2001,133,"Cobalt naphthenates, powder"
+2002,135,"Celluloid, scrap"
+2004,135,Magnesium diamide
+2006,135,"Plastics, nitrocellulose-based,"
+2008,135,"Zirconium powder, dry"
+2009,135,"Zirconium, dry, finished sheets,"
+2010,138,Magnesium hydride
+2011,139,Magnesium phosphide
+2012,139,Potassium phosphide
+2013,139,Strontium phosphide
+2014,140,"Hydrogen peroxide, aqueous"
+2015,143,"Hydrogen peroxide, aqueous"
+2015,143,"Hydrogen peroxide, stabilized"
+2016,151,"Ammunition, poisonous,"
+2016,151,"Ammunition, toxic,"
+2017,159,"Ammunition, tear-producing,"
+2018,152,"Chloroanilines, solid"
+2019,152,"Chloroanilines, liquid"
+2020,153,"Chlorophenols, solid"
+2021,153,"Chlorophenols, liquid"
+2022,153,Cresylic acid
+2023,131P,Epichlorohydrin
+2024,151,"Mercury compound, liquid,"
+2025,151,"Mercury compound, solid, n.o.s."
+2026,151,"Phenylmercuric compound,"
+2027,151,"Sodium arsenite, solid2028 153 Bombs, smoke, non-explosive,"
+2029,132,"Hydrazine, anhydrous"
+2030,153,"Hydrazine, aqueous solution,"
+2031,157,"Nitric acid, other than red"
+2031,157,"Nitric acid, other than red"
+2032,157,"Nitric acid, red fuming"
+2033,154,Potassium monoxide
+2034,115,"Hydrogen and methane mixture,"
+2035,115,Refrigerant gas R-143a
+2035,115,"1,1,1-Trifluoroethane"
+2036,120,Xenon
+2036,120,"Xenon, compressed"
+2037,115,Gas cartridges
+2037,115,"Receptacles, small, containing"
+2038,152,"Dinitrotoluenes, liquid"
+2044,115,"2,2-Dimethylpropane"
+2045,130,Isobutyl aldehyde
+2045,130,Isobutyraldehyde
+2046,130,Cymenes
+2047,129,Dichloropropenes
+2048,130P,Dicyclopentadiene
+2049,130,Diethylbenzene
+2050,128,"Diisobutylene, isomeric"
+2051,132,2-Dimethylaminoethanol
+2052,128,Dipentene
+2053,129,Methyl isobutyl carbinol
+2054,132,Morpholine
+2055,128P,"Styrene monomer, stabilized"
+2056,127,Tetrahydrofuran
+2057,128,Tripropylene
+2058,129,Valeraldehyde
+2059,127,"Nitrocellulose solution,"
+2067,140,Ammonium nitrate based
+2071,140,Ammonium nitrate based
+2073,125,"Ammonia solution, with more"
+2074,153P,"Acrylamide, solid"
+2075,153,"Chloral, anhydrous, stabilized"
+2076,153,"Cresols, liquid"
+2077,153,alpha-Naphthylamine
+2077,153,Naphthylamine (alpha)
+2078,156,Toluene diisocyanate
+2079,154,Diethylenetriamine
+2186,125,"Hydrogen chloride, refrigerated"
+2187,120,"Carbon dioxide, refrigerated"
+2188,119,Arsine
+2189,119,Dichlorosilane
+2190,124,"Oxygen difluoride, compressed"
+2191,123,Sulfuryl fluoride
+2191,123,Sulphuryl fluoride
+2192,119,Germane
+2193,126,Hexafluoroethane
+2193,126,Refrigerant gas R-116
+2194,125,Selenium hexafluoride2195 125 Tellurium hexafluoride
+2196,125,Tungsten hexafluoride
+2197,125,"Hydrogen iodide, anhydrous"
+2198,125,Phosphorus pentafluoride
+2198,125,"Phosphorus pentafluoride,"
+2199,119,Phosphine
+2200,116P,"Propadiene, stabilized"
+2201,122,"Nitrous oxide, refrigerated liquid"
+2202,117,"Hydrogen selenide, anhydrous"
+2203,116,Silane
+2204,119,Carbonyl sulfide
+2204,119,Carbonyl sulphide
+2205,153,Adiponitrile
+2206,156,"Isocyanate solution, poisonous,"
+2206,156,"Isocyanate solution, toxic,"
+2206,156,"Isocyanates, poisonous, n.o.s."
+2206,156,"Isocyanates, toxic, n.o.s."
+2208,140,Bleaching powder
+2208,140,"Calcium hypochlorite mixture,"
+2209,153,"Formaldehyde, solution"
+2209,153,Formalin (corrosive)
+2210,135,Maneb
+2210,135,"Maneb preparation, with not"
+2211,171,"Polymeric beads, expandable"
+2212,171,Asbestos
+2212,171,"Asbestos, amphibole"
+2213,133,Paraformaldehyde
+2214,156,Phthalic anhydride
+2215,156,Maleic anhydride
+2215,156,"Maleic anhydride, molten"
+2216,171,"Fish meal, stabilized"
+2216,171,"Fish scrap, stabilized"
+2217,135,"Seed cake, with not more than"
+2218,132P,"Acrylic acid, stabilized"
+2219,129,Allyl glycidyl ether
+2222,128,Anisole
+2224,152,Benzonitrile
+2225,156,Benzenesulfonyl chloride
+2225,156,Benzenesulphonyl chloride
+2226,156,Benzotrichloride
+2227,130P,"n-Butyl methacrylate, stabilized"
+2232,153,Chloroacetaldehyde
+2232,153,2-Chloroethanal
+2233,152,Chloroanisidines
+2234,130,Chlorobenzotrifluorides
+2235,153,"Chlorobenzyl chlorides, liquid"
+2236,156,3-Chloro-4-methylphenyl
+2237,153,Chloronitroanilines
+2238,129,Chlorotoluenes
+2239,153,"Chlorotoluidines, solid"
+2240,154,Chromosulfuric acid
+2240,154,Chromosulphuric acid
+2241,128,Cycloheptane
+2242,128,Cycloheptene
+2243,130,Cyclohexyl acetate
+2244,129,Cyclopentanol
+2245,128,Cyclopentanone2246 128 Cyclopentene
+2247,128,n-Decane
+2248,132,Di-n-butylamine
+2249,131,"Dichlorodimethyl ether,"
+2250,156,Dichlorophenyl isocyanates
+2251,128P,"Bicyclo[2.2.1]hepta-2,5-diene,"
+2251,128P,"2,5-Norbornadiene, stabilized"
+2252,127,"1,2-Dimethoxyethane"
+2253,153,"N,N-Dimethylaniline"
+2254,133,"Matches, fusee"
+2256,130,Cyclohexene
+2257,138,Potassium
+2258,132,"1,2-Propylenediamine"
+2259,153,Triethylenetetramine
+2260,132,Tripropylamine
+2261,153,"Xylenols, solid"
+2262,156,Dimethylcarbamoyl chloride
+2263,128,Dimethylcyclohexanes
+2264,132,"N,N-Dimethylcyclohexylamine"
+2264,132,Dimethylcyclohexylamine
+2265,129,"N,N-Dimethylformamide"
+2266,132,Dimethyl-N-propylamine
+2267,156,Dimethyl thiophosphoryl
+2269,153,"3,3'-Iminodipropylamine"
+2270,132,"Ethylamine, aqueous solution,"
+2271,128,Ethyl amyl ketone
+2272,153,N-Ethylaniline
+2273,153,2-Ethylaniline
+2274,153,N-Ethyl-N-benzylaniline
+2275,129,2-Ethylbutanol
+2276,132,2-Ethylhexylamine
+2277,130P,"Ethyl methacrylate, stabilized"
+2278,128,n-Heptene
+2279,151,Hexachlorobutadiene
+2280,153,"Hexamethylenediamine, solid"
+2281,156,Hexamethylene diisocyanate
+2282,129,Hexanols
+2283,130P,"Isobutyl methacrylate, stabilized"
+2284,131,Isobutyronitrile
+2285,155,Isocyanatobenzotrifluorides
+2286,128,Pentamethylheptane
+2287,128,Isoheptenes
+2288,128,Isohexenes
+2289,153,Isophoronediamine
+2290,156,Isophorone diisocyanate
+2291,151,"Lead compound, soluble, n.o.s."
+2293,128,4-Methoxy-4-methylpentan-2-
+2294,153,N-Methylaniline
+2295,131,Methyl chloroacetate
+2296,128,Methylcyclohexane
+2297,128,Methylcyclohexanone
+2298,128,Methylcyclopentane
+2299,156,Methyl dichloroacetate
+2300,153,2-Methyl-5-ethylpyridine
+2301,128,2-Methylfuran
+2302,127,5-Methylhexan-2-one
+2303,128,Isopropenylbenzene
+2304,133,"Naphthalene, molten"
+2305,153,Nitrobenzenesulfonic acid2305 153 Nitrobenzenesulphonic acid
+2306,152,"Nitrobenzotrifluorides, liquid"
+2307,152,3-Nitro-4-chlorobenzotrifluoride
+2308,157,"Nitrosylsulfuric acid, liquid"
+2308,157,"Nitrosylsulphuric acid, liquid"
+2309,128P,Octadiene
+2310,131,"Pentane-2,4-dione"
+2311,153,Phenetidines
+2312,153,"Phenol, molten"
+2313,129,Picolines
+2315,171,"PCB, liquid"
+2315,171,"Polychlorinated biphenyls, liquid"
+2316,157,"Sodium cuprocyanide, solid"
+2317,157,"Sodium cuprocyanide, solution"
+2318,135,"Sodium hydrosulfide, with"
+2318,135,"Sodium hydrosulphide, with"
+2319,128,"Terpene hydrocarbons, n.o.s."
+2320,153,Tetraethylenepentamine
+2321,153,"Trichlorobenzenes, liquid"
+2322,152,Trichlorobutene
+2323,130,Triethyl phosphite
+2324,128,Triisobutylene
+2325,129,"1,3,5-Trimethylbenzene"
+2326,153,Trimethylcyclohexylamine
+2327,153,Trimethylhexamethylenediamines
+2328,156,Trimethylhexamethylene
+2329,130,Trimethyl phosphite
+2330,128,Undecane
+2331,154,"Zinc chloride, anhydrous"
+2332,129,Acetaldehyde oxime
+2333,131,Allyl acetate
+2334,131,Allylamine
+2335,131,Allyl ethyl ether
+2336,131,Allyl formate
+2337,131,Phenyl mercaptan
+2338,127,Benzotrifluoride
+2339,130,2-Bromobutane
+2340,130,2-Bromoethyl ethyl ether
+2341,130,1-Bromo-3-methylbutane
+2342,130,Bromomethylpropanes
+2343,130,2-Bromopentane
+2344,129,Bromopropanes
+2345,130,3-Bromopropyne
+2346,127,Butanedione
+2346,127,Diacetyl
+2347,130,Butyl mercaptan
+2348,129P,"Butyl acrylates, stabilized"
+2350,127,Butyl methyl ether
+2351,129,Butyl nitrites
+2352,127P,"Butyl vinyl ether, stabilized"
+2353,155,Butyryl chloride
+2354,131,Chloromethyl ethyl ether
+2356,129,2-Chloropropane
+2357,132,Cyclohexylamine
+2358,128P,Cyclooctatetraene
+2359,132,Diallylamine
+2360,131P,Diallyl ether
+2361,132,Diisobutylamine
+2362,130,"1,1-Dichloroethane"
+2363,129,Ethyl mercaptan
+2364,128,n-Propylbenzene2366 128 Diethyl carbonate
+2367,130,alpha-Methylvaleraldehyde
+2367,130,Methyl valeraldehyde (alpha)
+2368,128,alpha-Pinene
+2368,128,Pinene (alpha)
+2370,128,1-Hexene
+2371,128,Isopentenes
+2372,129,"1,2-Di-(dimethylamino) ethane"
+2373,127,Diethoxymethane
+2374,127,"3,3-Diethoxypropene"
+2375,129,Diethyl sulfide
+2375,129,Diethyl sulphide
+2376,127,"2,3-Dihydropyran"
+2377,127,"1,1-Dimethoxyethane"
+2378,131,2-Dimethylaminoacetonitrile
+2379,132,"1,3-Dimethylbutylamine"
+2380,127,Dimethyldiethoxysilane
+2381,131,Dimethyl disulfide
+2381,131,Dimethyl disulphide
+2382,131,"Dimethylhydrazine, symmetrical"
+2383,132,Dipropylamine
+2384,127,Di-n-propyl ether
+2385,129,Ethyl isobutyrate
+2386,132,1-Ethylpiperidine
+2387,130,Fluorobenzene
+2388,130,Fluorotoluenes
+2389,128,Furan
+2390,129,2-Iodobutane
+2391,129,Iodomethylpropanes
+2392,129,Iodopropanes
+2393,129,Isobutyl formate
+2394,129,Isobutyl propionate
+2395,155,Isobutyryl chloride
+2396,131P,"Methacrylaldehyde, stabilized"
+2397,127,3-Methylbutan-2-one
+2398,127,Methyl tert-butyl ether
+2399,132,1-Methylpiperidine
+2400,130,Methyl isovalerate
+2401,132,Piperidine
+2402,130,Propanethiols
+2403,129P,Isopropenyl acetate
+2404,131,Propionitrile
+2405,129,Isopropyl butyrate
+2406,127,Isopropyl isobutyrate
+2407,155,Isopropyl chloroformate
+2409,129,Isopropyl propionate
+2410,129,"1,2,3,6-Tetrahydropyridine"
+2411,131,Butyronitrile
+2412,130,Tetrahydrothiophene
+2413,128,Tetrapropyl orthotitanate
+2414,130,Thiophene
+2416,129,Trimethyl borate
+2417,125,Carbonyl fluoride
+2418,125,Sulfur tetrafluoride
+2418,125,Sulphur tetrafluoride
+2419,116,Bromotrifluoroethylene
+2420,125,Hexafluoroacetone
+2421,124,Nitrogen trioxide
+2422,126,Octafluorobut-2-ene
+2422,126,Refrigerant gas R-1318
+2424,126,Octafluoropropane
+2424,126,Refrigerant gas R-218
+2426,140,"Ammonium nitrate, liquid (hot"
+2428,140,"Sodium chlorate, aqueous"
+2429,140,"Calcium chlorate, aqueous"
+2430,153,"Alkylphenols, solid, n.o.s."
+2431,153,Anisidines
+2432,153,"N,N-Diethylaniline"
+2433,152,"Chloronitrotoluenes, liquid"
+2434,156,Dibenzyldichlorosilane
+2435,156,Ethylphenyldichlorosilane
+2436,129,Thioacetic acid
+2437,156,Methylphenyldichlorosilane
+2438,131,Trimethylacetyl chloride
+2439,154,Sodium hydrogendifluoride
+2440,154,"Stannic chloride, pentahydrate"
+2441,135,"Titanium trichloride, pyrophoric"
+2441,135,"Titanium trichloride mixture,"
+2442,156,Trichloroacetyl chloride
+2443,137,Vanadium oxytrichloride
+2444,137,Vanadium tetrachloride
+2446,153,"Nitrocresols, solid"
+2447,136,"Phosphorus, white, molten"
+2447,136,"White phosphorus, molten"
+2448,133,Molten sulfur
+2448,133,Molten sulphur
+2448,133,"Sulfur, molten"
+2448,133,"Sulphur, molten"
+2451,122,Nitrogen trifluoride
+2452,116P,"Ethylacetylene, stabilized"
+2453,115,Ethyl fluoride
+2453,115,Refrigerant gas R-161
+2454,115,Methyl fluoride
+2454,115,Refrigerant gas R-41
+2455,116,Methyl nitrite
+2456,130P,2-Chloropropene
+2457,128,"2,3-Dimethylbutane"
+2458,130,Hexadiene
+2459,128,2-Methyl-1-butene
+2460,128,2-Methyl-2-butene
+2461,128,Methylpentadiene
+2463,138,Aluminum hydride
+2464,141,Beryllium nitrate
+2465,140,"Dichloroisocyanuric acid, dry"
+2465,140,Dichloroisocyanuric acid salts
+2465,140,Sodium dichloroisocyanurate
+2465,140,Sodium dichloro-s-triazinetrione
+2466,143,Potassium superoxide
+2468,140,"Trichloroisocyanuric acid, dry"
+2469,140,Zinc bromate
+2470,152,"Phenylacetonitrile, liquid"
+2471,154,Osmium tetroxide
+2473,154,Sodium arsanilate
+2474,156,Thiophosgene
+2475,157,Vanadium trichloride
+2477,131,Methyl isothiocyanate
+2478,155,"Isocyanate solution, flammable,"
+2478,155,"Isocyanate solution, flammable,"
+2478,155,"Isocyanates, flammable,"
+2478,155,"Isocyanates, flammable, toxic,"
+2481,155,Ethyl isocyanate
+2482,155P,n-Propyl isocyanate
+2483,155P,Isopropyl isocyanate
+2484,155,tert-Butyl isocyanate
+2485,155P,n-Butyl isocyanate
+2486,155P,Isobutyl isocyanate
+2487,155,Phenyl isocyanate
+2488,155,Cyclohexyl isocyanate
+2490,153,Dichloroisopropyl ether
+2491,153,Ethanolamine
+2491,153,"Ethanolamine, solution"
+2491,153,Monoethanolamine
+2493,132,Hexamethyleneimine
+2495,144,Iodine pentafluoride
+2496,156,Propionic anhydride
+2498,129,"1,2,3,6-Tetrahydrobenzaldehyde"
+2501,152,Tris-(1-aziridinyl)phosphine
+2502,132,Valeryl chloride
+2503,137,Zirconium tetrachloride
+2504,159,Acetylene tetrabromide
+2504,159,Tetrabromoethane
+2505,154,Ammonium fluoride
+2506,154,Ammonium hydrogen sulfate
+2506,154,Ammonium hydrogen sulphate
+2507,154,"Chloroplatinic acid, solid"
+2508,156,Molybdenum pentachloride
+2509,154,Potassium hydrogen sulfate
+2509,154,Potassium hydrogen sulphate
+2511,153,2-Chloropropionic acid
+2512,152,Aminophenols
+2513,156,Bromoacetyl bromide
+2514,130,Bromobenzene
+2515,159,Bromoform
+2516,151,Carbon tetrabromide
+2517,115,"1-Chloro-1,1-difluoroethane"
+2517,115,Difluorochloroethanes
+2517,115,Refrigerant gas R-142b
+2518,153,"1,5,9-Cyclododecatriene"
+2520,130P,Cyclooctadienes
+2521,131P,"Diketene, stabilized"
+2522,153P,2-Dimethylaminoethyl
+2524,129,Ethyl orthoformate
+2525,156,Ethyl oxalate
+2526,132,Furfurylamine
+2527,129P,"Isobutyl acrylate, stabilized"
+2528,130,Isobutyl isobutyrate
+2529,132,Isobutyric acid
+2531,153P,"Methacrylic acid, stabilized"
+2533,156,Methyl trichloroacetate
+2534,119,Methylchlorosilane
+2535,132,4-Methylmorpholine
+2535,132,N-Methylmorpholine
+2536,127,Methyltetrahydrofuran
+2538,133,Nitronaphthalene
+2541,128,Terpinolene
+2542,153,Tributylamine
+2545,135,"Hafnium powder, dry"
+2546,135,"Titanium powder, dry"
+2547,143,Sodium superoxide
+2548,124,Chlorine pentafluoride
+2552,151,"Hexafluoroacetone hydrate,"
+2555,113,"Nitrocellulose with water, not"
+2556,113,"Nitrocellulose with alcohol, not"
+2557,133,"Nitrocellulose mixture, with or"
+2557,133,"Nitrocellulose mixture, with or"
+2558,131,Epibromohydrin
+2560,129,2-Methylpentan-2-ol
+2561,128,3-Methyl-1-butene
+2564,153,"Trichloroacetic acid, solution"
+2565,153,Dicyclohexylamine
+2567,154,Sodium pentachlorophenate
+2570,154,Cadmium compound
+2571,156,Alkylsulfuric acids
+2571,156,Alkylsulphuric acids
+2572,153,Phenylhydrazine
+2573,141,Thallium chlorate
+2574,151,Tricresyl phosphate
+2576,137,"Phosphorus oxybromide, molten"
+2577,156,Phenylacetyl chloride
+2578,157,Phosphorus trioxide
+2579,153,Piperazine
+2580,154,"Aluminum bromide, solution"
+2581,154,"Aluminum chloride, solution"
+2582,154,"Ferric chloride, solution"
+2583,153,"Alkyl sulfonic acids, solid, with"
+2583,153,"Alkyl sulphonic acids, solid, with"
+2583,153,"Aryl sulfonic acids, solid, with"
+2583,153,"Aryl sulphonic acids, solid, with"
+2584,153,"Alkyl sulfonic acids, liquid, with"
+2584,153,"Alkyl sulphonic acids, liquid,"
+2584,153,"Aryl sulfonic acids, liquid, with"
+2584,153,"Aryl sulphonic acids, liquid, with"
+2585,153,"Alkyl sulfonic acids, solid,"
+2585,153,"Alkyl sulphonic acids, solid,"
+2585,153,"Aryl sulfonic acids, solid,"
+2585,153,"Aryl sulphonic acids, solid,"
+2586,153,"Alkyl sulfonic acids, liquid,"
+2586,153,"Alkyl sulphonic acids, liquid,"
+2586,153,"Aryl sulfonic acids, liquid,"
+2586,153,"Aryl sulphonic acids, liquid,"
+2587,153,"Benzoquinone2588 151 Pesticide, solid, poisonous,"
+2588,151,"Pesticide, solid, toxic, n.o.s."
+2589,155,Vinyl chloroacetate
+2590,171,"Asbestos, chrysotile"
+2591,120,"Xenon, refrigerated liquid"
+2599,126,Chlorotrifluoromethane and
+2599,126,Refrigerant gas R-503
+2601,115,Cyclobutane
+2602,126,Dichlorodifluoromethane and
+2602,126,Refrigerant gas R-500
+2603,131,Cycloheptatriene
+2604,132,Boron trifluoride diethyl
+2605,155,Methoxymethyl isocyanate
+2606,155,Methyl orthosilicate
+2607,129P,"Acrolein dimer, stabilized"
+2608,129,Nitropropanes
+2609,156,Triallyl borate
+2610,132,Triallylamine
+2611,131,Propylene chlorohydrin
+2612,127,Methyl propyl ether
+2614,129,Methallyl alcohol
+2615,127,Ethyl propyl ether
+2616,129,Triisopropyl borate
+2617,129,Methylcyclohexanols
+2618,130P,"Vinyltoluenes, stabilized"
+2619,132,Benzyldimethylamine
+2620,130,Amyl butyrates
+2621,127,Acetyl methyl carbinol
+2622,131P,Glycidaldehyde
+2623,133,"Firelighters, solid, with"
+2624,138,Magnesium silicide
+2626,140,"Chloric acid, aqueous solution,"
+2627,140,"Nitrites, inorganic, n.o.s."
+2628,151,Potassium fluoroacetate
+2629,151,Sodium fluoroacetate
+2630,151,Selenates
+2630,151,Selenites
+2642,154,Fluoroacetic acid
+2643,153,Methyl bromoacetate
+2644,151,Methyl iodide
+2645,153,Phenacyl bromide
+2646,151,Hexachlorocyclopentadiene
+2647,153,Malononitrile
+2648,154,"1,2-Dibromobutan-3-one"
+2649,153,"1,3-Dichloroacetone"
+2650,153,"1,1-Dichloro-1-nitroethane"
+2651,153,"4,4'-Diaminodiphenylmethane"
+2653,156,Benzyl iodide
+2655,151,Potassium fluorosilicate
+2656,154,Quinoline
+2657,153,Selenium disulfide
+2657,153,Selenium disulphide
+2659,151,Sodium chloroacetate
+2660,153,Mononitrotoluidines
+2660,153,Nitrotoluidines (mono)
+2661,153,Hexachloroacetone
+2664,160,Dibromomethane2667 152 Butyltoluenes
+2668,131,Chloroacetonitrile
+2669,152,"Chlorocresols, solution"
+2670,157,Cyanuric chloride
+2671,153,Aminopyridines
+2672,154,"Ammonia solution, with more"
+2672,154,"Ammonium hydroxide, with more"
+2673,151,2-Amino-4-chlorophenol
+2674,154,Sodium fluorosilicate
+2676,119,Stibine
+2677,154,"Rubidium hydroxide, solution"
+2678,154,"Rubidium hydroxide, solid"
+2679,154,"Lithium hydroxide, solution"
+2680,154,Lithium hydroxide
+2681,154,"Caesium hydroxide, solution"
+2681,154,"Cesium hydroxide, solution"
+2682,157,Caesium hydroxide
+2682,157,Cesium hydroxide
+2683,132,"Ammonium sulfide, solution"
+2683,132,"Ammonium sulphide, solution"
+2684,132,3-Diethylaminopropylamine
+2685,132,"N,N-Diethylethylenediamine"
+2686,132,2-Diethylaminoethanol
+2687,133,Dicyclohexylammonium nitrite
+2688,159,1-Bromo-3-chloropropane
+2689,153,Glycerol alpha-
+2690,152,"N,n-Butylimidazole"
+2691,137,Phosphorus pentabromide
+2692,157,Boron tribromide
+2693,154,"Bisulfites, aqueous solution,"
+2693,154,"Bisulphites, aqueous solution,"
+2698,156,Tetrahydrophthalic anhydrides
+2699,154,Trifluoroacetic acid
+2705,153P,1-Pentol
+2707,127,Dimethyldioxanes
+2709,128,Butylbenzenes
+2710,128,Dipropyl ketone
+2713,153,Acridine
+2714,133,Zinc resinate
+2715,133,Aluminum resinate
+2716,153,"1,4-Butynediol"
+2717,133,"Camphor, synthetic"
+2719,141,Barium bromate
+2720,141,Chromium nitrate
+2721,140,Copper chlorate
+2722,140,Lithium nitrate
+2723,140,Magnesium chlorate
+2724,140,Manganese nitrate
+2725,140,Nickel nitrate
+2726,140,Nickel nitrite
+2727,141,Thallium nitrate
+2728,140,Zirconium nitrate
+2729,152,Hexachlorobenzene
+2730,152,"Nitroanisoles, liquid"
+2732,152,"Nitrobromobenzenes, liquid"
+2733,132,"Amines, flammable, corrosive,"
+2733,132,"Polyamines, flammable,"
+2734,132,"Amines, liquid, corrosive,"
+2735,153,"Amines, liquid, corrosive, n.o.s."
+2735,153,"Polyamines, liquid, corrosive,"
+2738,153,N-Butylaniline
+2739,156,Butyric anhydride
+2740,155,n-Propyl chloroformate
+2741,141,"Barium hypochlorite, with more"
+2742,155,"Chloroformates, poisonous,"
+2742,155,"Chloroformates, toxic,"
+2743,155,n-Butyl chloroformate
+2744,155,Cyclobutyl chloroformate
+2745,157,Chloromethyl chloroformate
+2746,156,Phenyl chloroformate
+2747,156,tert-Butylcyclohexyl
+2748,156,2-Ethylhexyl chloroformate
+2749,130,Tetramethylsilane
+2750,153,"1,3-Dichloropropanol-2"
+2751,156,Diethylthiophosphoryl chloride
+2752,127,"1,2-Epoxy-3-ethoxypropane"
+2753,153,"N-Ethylbenzyltoluidines, liquid"
+2754,153,N-Ethyltoluidines
+2757,151,"Carbamate pesticide, solid,"
+2757,151,"Carbamate pesticide, solid,"
+2758,131,"Carbamate pesticide, liquid,"
+2758,131,"Carbamate pesticide, liquid,"
+2759,151,"Arsenical pesticide, solid,"
+2759,151,"Arsenical pesticide, solid, toxic"
+2760,131,"Arsenical pesticide, liquid,"
+2760,131,"Arsenical pesticide, liquid,"
+2761,151,"Organochlorine pesticide, solid,"
+2761,151,"Organochlorine pesticide, solid,"
+2762,131,"Organochlorine pesticide,"
+2762,131,"Organochlorine pesticide,"
+2763,151,"Triazine pesticide, solid,"
+2763,151,"Triazine pesticide, solid, toxic"
+2764,131,"Triazine pesticide, liquid,"
+2764,131,"Triazine pesticide, liquid,"
+2771,151,"Thiocarbamate pesticide, solid,"
+2771,151,"Thiocarbamate pesticide, solid,"
+2772,131,"Thiocarbamate pesticide, liquid,"
+2772,131,"Thiocarbamate pesticide, liquid,"
+2775,151,"Copper based pesticide, solid,"
+2775,151,"Copper based pesticide, solid,"
+2776,131,"Copper based pesticide, liquid,"
+2776,131,"Copper based pesticide, liquid,"
+2777,151,"Mercury based pesticide, solid,"
+2778,131,"Mercury based pesticide, liquid,"
+2778,131,"Mercury based pesticide, liquid,"
+2779,153,Substituted nitrophenol
+2779,153,Substituted nitrophenol
+2780,131,Substituted nitrophenol
+2780,131,Substituted nitrophenol
+2781,151,"Bipyridilium pesticide, solid,"
+2781,151,"Bipyridilium pesticide, solid,"
+2782,131,"Bipyridilium pesticide, liquid,"
+2782,131,"Bipyridilium pesticide, liquid,"
+2783,152,"Organophosphorus pesticide,"
+2783,152,"Organophosphorus pesticide,"
+2784,131,"Organophosphorus pesticide,"
+2784,131,"Organophosphorus pesticide,"
+2785,152,4-Thiapentanal
+2786,153,"Organotin pesticide, solid,"
+2786,153,"Organotin pesticide, solid, toxic"
+2787,131,"Organotin pesticide, liquid,"
+2787,131,"Organotin pesticide, liquid,"
+2788,153,"Organotin compound, liquid,"
+2789,132,"Acetic acid, glacial"
+2789,132,"Acetic acid, solution, more than"
+2790,153,"Acetic acid, solution, more than"
+2793,170,"Ferrous metal borings,"
+2794,154,"Batteries, wet, filled with acid"
+2795,154,"Batteries, wet, filled with alkali"
+2796,157,"Battery fluid, acid"
+2796,157,"Sulfuric acid, with not more than"
+2796,157,"Sulphuric acid, with not more"
+2797,154,"Battery fluid, alkali"
+2798,137,Benzene phosphorus dichloride
+2798,137,Phenylphosphorus dichloride
+2799,137,Benzene phosphorus
+2799,137,Phenylphosphorus
+2800,154,"Batteries, wet, non-spillable"
+2801,154,"Dye, liquid, corrosive, n.o.s."
+2801,154,"Dye intermediate, liquid,"
+2802,154,Copper chloride
+2803,172,Gallium
+2805,138,"Lithium hydride, fused solid"
+2806,139,Lithium nitride
+2807,171,Magnetized material
+2809,172,"Mercury2810 153 Compounds, tree or weed"
+2810,153,"Poisonous liquid, organic, n.o.s."
+2810,153,"Toxic liquid, organic, n.o.s."
+2811,154,"Poisonous solid, organic, n.o.s."
+2811,154,"Toxic solid, organic, n.o.s."
+2812,154,"Sodium aluminate, solid"
+2813,138,"Water-reactive solid, n.o.s."
+2814,158,"Infectious substance, affecting"
+2815,153,N-Aminoethylpiperazine
+2817,154,"Ammonium bifluoride, solution"
+2817,154,"Ammonium hydrogendifluoride,"
+2818,154,"Ammonium polysulfide, solution"
+2818,154,"Ammonium polysulphide,"
+2819,153,Amyl acid phosphate
+2820,153,Butyric acid
+2821,153,Phenol solution
+2822,153,2-Chloropyridine
+2823,153,"Crotonic acid, solid"
+2826,155,Ethyl chlorothioformate
+2829,153,Caproic acid
+2829,153,Hexanoic acid
+2830,139,Lithium ferrosilicon
+2831,160,"1,1,1-Trichloroethane"
+2834,154,Phosphorous acid
+2835,138,Sodium aluminum hydride
+2837,154,"Bisulfates, aqueous solution"
+2837,154,"Bisulphates, aqueous solution"
+2837,154,"Sodium bisulfate, solution"
+2837,154,"Sodium bisulphate, solution"
+2838,129P,"Vinyl butyrate, stabilized"
+2839,153,Aldol
+2840,129,Butyraldoxime
+2841,131,Di-n-amylamine
+2842,129,Nitroethane
+2844,138,Calcium manganese silicon
+2845,135,"Ethyl phosphonous dichloride,"
+2845,135,Methyl phosphonous dichloride
+2845,135,"Pyrophoric liquid, organic,"
+2846,135,"Pyrophoric solid, organic, n.o.s."
+2849,153,3-Chloropropanol-1
+2850,128,Propylene tetramer
+2851,157,"Boron trifluoride, dihydrate"
+2852,113,"Dipicryl sulfide, wetted with not"
+2852,113,"Dipicryl sulphide, wetted with"
+2853,151,Magnesium fluorosilicate
+2854,151,Ammonium fluorosilicate
+2854,151,Ammonium silicofluoride
+2855,151,Zinc fluorosilicate
+2855,151,Zinc silicofluoride
+2856,151,"Fluorosilicates, n.o.s."
+2857,126,"Refrigerating machines,"
+2857,126,"Refrigerating machines,"
+2857,126,"Refrigerating machines,"
+2858,170,"Zirconium, dry, coiled wire,"
+2859,154,Ammonium metavanadate2861 151 Ammonium polyvanadate
+2862,151,Vanadium pentoxide
+2863,154,Sodium ammonium vanadate
+2864,151,Potassium metavanadate
+2865,154,Hydroxylamine sulfate
+2865,154,Hydroxylamine sulphate
+2869,157,Titanium trichloride mixture
+2870,135,Aluminum borohydride
+2870,135,Aluminum borohydride in
+2871,170,Antimony powder
+2872,159,Dibromochloropropanes
+2873,153,Dibutylaminoethanol
+2874,153,Furfuryl alcohol
+2875,151,Hexachlorophene
+2876,153,Resorcinol
+2878,170,Titanium sponge granules
+2878,170,Titanium sponge powders
+2879,157,Selenium oxychloride
+2880,140,"Calcium hypochlorite, hydrated,"
+2880,140,"Calcium hypochlorite, hydrated"
+2881,135,"Metal catalyst, dry"
+2881,135,"Nickel catalyst, dry"
+2900,158,"Infectious substance, affecting"
+2901,124,Bromine chloride
+2902,151,"Pesticide, liquid, poisonous,"
+2902,151,"Pesticide, liquid, toxic, n.o.s."
+2903,131,"Pesticide, liquid, poisonous,"
+2903,131,"Pesticide, liquid, toxic,"
+2904,154,"Chlorophenolates, liquid"
+2904,154,"Phenolates, liquid"
+2905,154,"Chlorophenolates, solid"
+2905,154,"Phenolates, solid"
+2907,133,Isosorbide dinitrate mixture
+2908,161,"Radioactive material, excepted"
+2909,161,"Radioactive material,"
+2909,161,"Radioactive material,"
+2909,161,"Radioactive material,"
+2910,161,"Radioactive material, excepted"
+2911,161,"Radioactive material, excepted"
+2911,161,"Radioactive material, excepted"
+2912,162,"Radioactive material, low"
+2913,162,"Radioactive material, surface"
+2915,163,"Radioactive material, Type A"
+2916,163,"Radioactive material, Type B(U)"
+2919,163,"Radioactive material,"
+2920,132,"Corrosive liquid, flammable,"
+2921,134,"Corrosive solid, flammable,"
+2922,154,"Corrosive liquid, poisonous,"
+2922,154,"Corrosive liquid, toxic, n.o.s."
+2923,154,"Corrosive solid, poisonous,"
+2923,154,"Corrosive solid, toxic, n.o.s."
+2924,132,"Flammable liquid, corrosive,"
+2925,134,"Flammable solid, corrosive,"
+2926,134,"Flammable solid, poisonous,"
+2926,134,"Flammable solid, toxic, organic,"
+2927,154,Ethyl phosphonothioic
+2927,154,Ethyl phosphorodichloridate
+2927,154,"Poisonous liquid, corrosive,"
+2927,154,"Toxic liquid, corrosive, organic,"
+2928,154,"Poisonous solid, corrosive,"
+2928,154,"Toxic solid, corrosive, organic,"
+2929,131,"Poisonous liquid, flammable,"
+2929,131,"Toxic liquid, flammable,"
+2930,134,"Poisonous solid, flammable,"
+2930,134,"Toxic solid, flammable, organic,"
+2931,151,Vanadyl sulfate
+2931,151,Vanadyl sulphate
+2933,129,Methyl 2-chloropropionate
+2934,129,Isopropyl 2-chloropropionate
+2935,129,Ethyl 2-chloropropionate
+2936,153,Thiolactic acid
+2937,153,"alpha-Methylbenzyl alcohol,"
+2937,153,"Methylbenzyl (alpha) alcohol,"
+2940,135,Cyclooctadiene phosphines
+2940,135,9-Phosphabicyclononanes
+2941,153,Fluoroanilines
+2942,153,2-Trifluoromethylaniline
+2943,129,Tetrahydrofurfurylamine
+2945,132,N-Methylbutylamine
+2946,153,2-Amino-5-diethylaminopentane
+2947,127,Isopropyl chloroacetate
+2948,153,3-Trifluoromethylaniline
+2949,154,"Sodium hydrosulfide, hydrated,"
+2949,154,"Sodium hydrosulfide, with"
+2949,154,"Sodium hydrosulphide,"
+2949,154,"Sodium hydrosulphide, with"
+2950,138,"Magnesium granules, coated2956 149 5-tert-Butyl-2,4,6-trinitro-"
+2956,149,Musk xylene
+2965,139,Boron trifluoride dimethyl
+2966,153,Thioglycol
+2967,154,Sulfamic acid
+2967,154,Sulphamic acid
+2968,135,"Maneb, stabilized"
+2968,135,"Maneb preparation, stabilized"
+2969,171,"Castor beans, meal, pomace"
+2977,166,"Radioactive material, uranium"
+2977,166,"Uranium hexafluoride,"
+2978,166,"Radioactive material, uranium"
+2978,166,"Uranium hexafluoride,"
+2983,131P,Ethylene oxide and propylene
+2984,140,"Hydrogen peroxide, aqueous"
+2985,155,"Chlorosilanes, flammable,"
+2986,155,"Chlorosilanes, corrosive,"
+2987,156,"Chlorosilanes, corrosive, n.o.s."
+2988,139,"Chlorosilanes, water-reactive,"
+2989,133,"Lead phosphite, dibasic"
+2990,171,"Life-saving appliances, self-"
+2991,131,"Carbamate pesticide, liquid,"
+2991,131,"Carbamate pesticide, liquid,"
+2992,151,"Carbamate pesticide, liquid,"
+2992,151,"Carbamate pesticide, liquid,"
+2993,131,"Arsenical pesticide, liquid,"
+2993,131,"Arsenical pesticide, liquid,"
+2994,151,"Arsenical pesticide, liquid,"
+2994,151,"Arsenical pesticide, liquid, toxic"
+2995,131,"Organochlorine pesticide,"
+2995,131,"Organochlorine pesticide,"
+2996,151,"Organochlorine pesticide,"
+2996,151,"Organochlorine pesticide,"
+2997,131,"Triazine pesticide, liquid,"
+2997,131,"Triazine pesticide, liquid, toxic,"
+2998,151,"Triazine pesticide, liquid,"
+2998,151,"Triazine pesticide, liquid, toxic"
+3002,151,"Phenyl urea pesticides, liquid,"
+3002,151,"Phenyl urea pesticides, liquid,"
+3005,131,"Thiocarbamate pesticide, liquid,"
+3005,131,"Thiocarbamate pesticide, liquid,"
+3006,151,"Thiocarbamate pesticide, liquid,"
+3009,131,"Copper based pesticide, liquid,"
+3009,131,"Copper based pesticide, liquid,"
+3010,151,"Copper based pesticide, liquid,"
+3010,151,"Copper based pesticide, liquid,"
+3011,131,"Mercury based pesticide, liquid,"
+3011,131,"Mercury based pesticide, liquid,"
+3012,151,"Mercury based pesticide, liquid,"
+3012,151,"Mercury based pesticide, liquid,"
+3013,131,Substituted nitrophenol
+3013,131,Substituted nitrophenol
+3014,153,Substituted nitrophenol
+3014,153,Substituted nitrophenol
+3015,131,"Bipyridilium pesticide, liquid,"
+3015,131,"Bipyridilium pesticide, liquid,"
+3016,151,"Bipyridilium pesticide, liquid,"
+3016,151,"Bipyridilium pesticide, liquid,"
+3017,131,"Organophosphorus pesticide,"
+3017,131,"Organophosphorus pesticide,"
+3018,152,"Organophosphorus pesticide,"
+3018,152,"Organophosphorus pesticide,"
+3019,131,"Organotin pesticide, liquid,"
+3019,131,"Organotin pesticide, liquid,"
+3020,153,"Organotin pesticide, liquid,"
+3020,153,"Organotin pesticide, liquid, toxic"
+3021,131,"Pesticide, liquid, flammable,"
+3021,131,"Pesticide, liquid, flammable,"
+3022,127P,"1,2-Butylene oxide, stabilized"
+3023,131,2-Methyl-2-heptanethiol
+3024,131,"Coumarin derivative pesticide,"
+3024,131,"Coumarin derivative pesticide,"
+3025,131,"Coumarin derivative pesticide,"
+3025,131,"Coumarin derivative pesticide,"
+3026,151,"Coumarin derivative pesticide,"
+3026,151,"Coumarin derivative pesticide,"
+3027,151,"Coumarin derivative pesticide,"
+3027,151,"Coumarin derivative pesticide,"
+3028,154,"Batteries, dry, containing"
+3048,157,Aluminum phosphide pesticide
+3054,129,Cyclohexanethiol3054 129 Cyclohexyl mercaptan
+3055,154,2-(2-Aminoethoxy)ethanol
+3056,129,n-Heptaldehyde
+3057,125,Trifluoroacetyl chloride
+3064,127,"Nitroglycerin, solution in"
+3065,127,Alcoholic beverages
+3066,153,Paint (corrosive)
+3066,153,Paint related material
+3070,126,Ethylene oxide and
+3071,131,"Mercaptan mixture, liquid,"
+3071,131,"Mercaptan mixture, liquid, toxic,"
+3071,131,"Mercaptans, liquid, poisonous,"
+3071,131,"Mercaptans, liquid, toxic,"
+3072,171,"Life-saving appliances, not self-"
+3073,131P,"Vinylpyridines, stabilized"
+3077,171,Environmentally hazardous
+3077,171,"Hazardous waste, solid, n.o.s."
+3077,171,"Other regulated substances,"
+3078,138,"Cerium, turnings or gritty"
+3079,131P,"Methacrylonitrile, stabilized"
+3080,155,"Isocyanate solution, poisonous,"
+3080,155,"Isocyanate solution, toxic,"
+3080,155,"Isocyanates, poisonous,"
+3080,155,"Isocyanates, toxic, flammable,"
+3082,171,Environmentally hazardous
+3082,171,"Hazardous waste, liquid, n.o.s."
+3082,171,"Other regulated substances,"
+3083,124,Perchloryl fluoride
+3084,157,"Corrosive solid, oxidizing, n.o.s."
+3085,140,"Oxidizing solid, corrosive, n.o.s."
+3086,141,"Poisonous solid, oxidizing,"
+3086,141,"Toxic solid, oxidizing, n.o.s."
+3087,141,"Oxidizing solid, poisonous,"
+3087,141,"Oxidizing solid, toxic, n.o.s."
+3088,135,"Self-heating solid, organic,"
+3089,170,"Metal powder, flammable, n.o.s."
+3090,138,Lithium metal batteries
+3091,138,Lithium metal batteries
+3091,138,Lithium metal batteries packed
+3092,129,1-Methoxy-2-propanol
+3093,157,"Corrosive liquid, oxidizing,"
+3094,138,"Corrosive liquid, water-reactive,"
+3095,136,"Corrosive solid, self-heating,"
+3097,140,"Flammable solid, oxidizing,"
+3098,140,"Oxidizing liquid, corrosive,"
+3099,142,"Oxidizing liquid, poisonous,"
+3099,142,"Oxidizing liquid, toxic, n.o.s."
+3100,135,"Oxidizing solid, self-heating,"
+3101,146,"Organic peroxide type B, liquid"
+3102,146,"Organic peroxide type B, solid"
+3103,146,"Organic peroxide type C, liquid"
+3104,146,"Organic peroxide type C, solid"
+3105,145,"Organic peroxide type D, liquid"
+3106,145,"Organic peroxide type D, solid"
+3107,145,"Organic peroxide type E, liquid"
+3108,145,"Organic peroxide type E, solid"
+3109,145,"Organic peroxide type F, liquid"
+3110,145,"Organic peroxide type F, solid"
+3111,148,"Organic peroxide type B, liquid,"
+3112,148,"Organic peroxide type B, solid,"
+3113,148,"Organic peroxide type C, liquid,"
+3114,148,"Organic peroxide type C, solid,"
+3115,148,"Organic peroxide type D, liquid,"
+3116,148,"Organic peroxide type D, solid,"
+3117,148,"Organic peroxide type E, liquid,"
+3118,148,"Organic peroxide type E, solid,"
+3119,148,"Organic peroxide type F, liquid,"
+3120,148,"Organic peroxide type F, solid,"
+3121,144,"Oxidizing solid, water-reactive,"
+3122,142,"Poisonous liquid, oxidizing,"
+3122,142,"Toxic liquid, oxidizing, n.o.s."
+3123,139,"Poisonous liquid, water-"
+3123,139,"Toxic liquid, water-reactive,"
+3124,136,"Poisonous solid, self-heating,"
+3124,136,"Toxic solid, self-heating, n.o.s."
+3125,139,"Poisonous solid, water-reactive,"
+3125,139,"Toxic solid, water-reactive,"
+3126,136,"Self-heating solid, corrosive,"
+3127,135,"Self-heating solid, oxidizing,"
+3128,136,"Self-heating solid, poisonous,"
+3128,136,"Self-heating solid, toxic,"
+3129,138,"Water-reactive liquid, corrosive,"
+3130,139,"Water-reactive liquid,"
+3130,139,"Water-reactive liquid, toxic,"
+3131,138,"Water-reactive solid, corrosive,"
+3132,138,"Water-reactive solid, flammable,"
+3134,139,"Water-reactive solid, poisonous,"
+3134,139,"Water-reactive solid, toxic,"
+3135,138,"Water-reactive solid, self-"
+3136,120,"Trifluoromethane, refrigerated"
+3137,140,"Oxidizing solid, flammable,"
+3138,115,"Ethylene, acetylene and"
+3139,140,"Oxidizing liquid, n.o.s."
+3140,151,"Alkaloids, liquid, n.o.s."
+3140,151,"Alkaloid salts, liquid, n.o.s."
+3141,157,"Antimony compound, inorganic,"
+3142,151,"Disinfectant, liquid, poisonous,"
+3142,151,"Disinfectant, liquid, toxic, n.o.s."
+3143,151,"Dye, solid, poisonous, n.o.s."
+3143,151,"Dye, solid, toxic, n.o.s."
+3143,151,"Dye intermediate, solid,"
+3143,151,"Dye intermediate, solid, toxic,"
+3144,151,"Nicotine compound, liquid,"
+3144,151,"Nicotine preparation, liquid,"
+3145,153,"Alkylphenols, liquid, n.o.s."
+3146,153,"Organotin compound, solid,"
+3147,154,"Dye, solid, corrosive, n.o.s."
+3147,154,"Dye intermediate, solid,"
+3148,138,"Water-reactive liquid, n.o.s."
+3149,140,Hydrogen peroxide and
+3150,115,"Devices, small, hydrocarbon gas"
+3150,115,Hydrocarbon gas refills for
+3151,171,Halogenated
+3151,171,"Polyhalogenated biphenyls,"
+3151,171,"Polyhalogenated terphenyls,"
+3152,171,Halogenated
+3152,171,"Polyhalogenated biphenyls,"
+3152,171,"Polyhalogenated terphenyls,"
+3153,115,Perfluoro(methyl vinyl ether)
+3154,115,Perfluoro(ethyl vinyl ether)
+3155,154,Pentachlorophenol
+3156,122,"Compressed gas, oxidizing,"
+3157,122,"Liquefied gas, oxidizing, n.o.s."
+3158,120,"Gas, refrigerated liquid, n.o.s.3159 126 Refrigerant gas R-134a"
+3159,126,"1,1,1,2-Tetrafluoroethane"
+3160,119,"Liquefied gas, poisonous,"
+3160,119,"Liquefied gas, poisonous,"
+3160,119,"Liquefied gas, poisonous,"
+3160,119,"Liquefied gas, poisonous,"
+3160,119,"Liquefied gas, poisonous,"
+3160,119,"Liquefied gas, toxic, flammable,"
+3160,119,"Liquefied gas, toxic, flammable,"
+3160,119,"Liquefied gas, toxic, flammable,"
+3160,119,"Liquefied gas, toxic, flammable,"
+3160,119,"Liquefied gas, toxic, flammable,"
+3161,115,"Liquefied gas, flammable, n.o.s."
+3162,123,"Liquefied gas, poisonous, n.o.s."
+3162,123,"Liquefied gas, poisonous, n.o.s."
+3162,123,"Liquefied gas, poisonous, n.o.s."
+3162,123,"Liquefied gas, poisonous, n.o.s."
+3162,123,"Liquefied gas, poisonous, n.o.s."
+3162,123,"Liquefied gas, toxic, n.o.s."
+3162,123,"Liquefied gas, toxic, n.o.s."
+3162,123,"Liquefied gas, toxic, n.o.s."
+3162,123,"Liquefied gas, toxic, n.o.s."
+3162,123,"Liquefied gas, toxic, n.o.s."
+3163,126,"Liquefied gas, n.o.s."
+3164,126,"Articles, pressurized, hydraulic"
+3164,126,"Articles, pressurized, pneumatic"
+3165,131,Aircraft hydraulic power unit
+3166,115,"Vehicle, flammable gas powered"
+3166,128,"Vehicle, flammable liquid"
+3166,115,"Vehicle, fuel cell, flammable"
+3166,128,"Vehicle, fuel cell, flammable"
+3167,115,"Gas sample, non-pressurized,"
+3168,119,"Gas sample, non-pressurized,"
+3168,119,"Gas sample, non-pressurized,"
+3169,123,"Gas sample, non-pressurized,"
+3169,123,"Gas sample, non-pressurized,"
+3170,138,Aluminum dross
+3170,138,Aluminum remelting by-products3170 138 Aluminum smelting by-products
+3171,154,Battery-powered equipment
+3171,147,Battery-powered equipment
+3171,138,Battery-powered equipment
+3171,138,Battery-powered equipment
+3171,154,Battery-powered vehicle (wet
+3171,147,Battery-powered vehicle (with
+3171,138,Battery-powered vehicle (with
+3171,154,"Wheelchair, electric, with"
+3172,152,"Toxins, extracted from living"
+3174,135,Titanium disulfide
+3174,135,Titanium disulphide
+3175,133,Solids containing flammable
+3176,133,"Flammable solid, organic,"
+3178,133,"Flammable solid, inorganic,"
+3178,133,Smokeless powder for small
+3179,134,"Flammable solid, poisonous,"
+3179,134,"Flammable solid, toxic,"
+3180,134,"Flammable solid, corrosive,"
+3181,133,Metal salts of organic
+3182,170,"Metal hydrides, flammable,"
+3183,135,"Self-heating liquid, organic,"
+3184,136,"Self-heating liquid, poisonous,"
+3184,136,"Self-heating liquid, toxic,"
+3185,136,"Self-heating liquid, corrosive,"
+3186,135,"Self-heating liquid, inorganic,"
+3187,136,"Self-heating liquid, poisonous,"
+3187,136,"Self-heating liquid, toxic,"
+3188,136,"Self-heating liquid, corrosive,"
+3189,135,"Metal powder, self-heating,"
+3190,135,"Self-heating solid, inorganic,"
+3191,136,"Self-heating solid, poisonous,"
+3191,136,"Self-heating solid, toxic,"
+3192,136,"Self-heating solid, corrosive,"
+3194,135,"Pyrophoric liquid, inorganic,"
+3200,135,"Pyrophoric solid, inorganic,"
+3205,135,Alkaline earth metal
+3206,136,"Alkali metal alcoholates, self-"
+3208,138,"Metallic substance, water-"
+3209,138,"Metallic substance, water-"
+3211,140,"Perchlorates, inorganic,"
+3212,140,"Hypochlorites, inorganic, n.o.s."
+3213,140,"Bromates, inorganic, aqueous"
+3214,140,"Permanganates, inorganic,"
+3215,140,"Persulfates, inorganic, n.o.s."
+3215,140,"Persulphates, inorganic, n.o.s."
+3216,140,"Persulfates, inorganic, aqueous"
+3216,140,"Persulphates, inorganic,"
+3218,140,"Nitrates, inorganic, aqueous"
+3219,140,"Nitrites, inorganic, aqueous"
+3220,126,Pentafluoroethane
+3220,126,Refrigerant gas R-125
+3221,149,Self-reactive liquid type B
+3222,149,Self-reactive solid type B
+3223,149,Self-reactive liquid type C
+3224,149,Self-reactive solid type C
+3225,149,Self-reactive liquid type D
+3226,149,Self-reactive solid type D
+3227,149,Self-reactive liquid type E
+3228,149,Self-reactive solid type E
+3229,149,Self-reactive liquid type F
+3230,149,Self-reactive solid type F
+3231,150,"Self-reactive liquid type B,"
+3232,150,"Self-reactive solid type B,"
+3233,150,"Self-reactive liquid type C,"
+3234,150,"Self-reactive solid type C,"
+3235,150,"Self-reactive liquid type D,"
+3236,150,"Self-reactive solid type D,"
+3237,150,"Self-reactive liquid type E,"
+3238,150,"Self-reactive solid type E,"
+3239,150,"Self-reactive liquid type F,"
+3240,150,"Self-reactive solid type F,"
+3241,133,"2-Bromo-2-nitropropane-1,"
+3242,149,Azodicarbonamide
+3243,151,Solids containing poisonous
+3243,151,"Solids containing toxic liquid,"
+3244,154,Solids containing corrosive
+3245,171,Genetically modified micro-
+3245,171,Genetically modified organisms
+3246,156,Methanesulfonyl chloride
+3246,156,Methanesulphonyl chloride
+3247,140,"Sodium peroxoborate,"
+3248,131,"Medicine, liquid, flammable,"
+3248,131,"Medicine, liquid, flammable,"
+3249,151,"Medicine, solid, poisonous,"
+3249,151,"Medicine, solid, toxic, n.o.s.3250 153 Chloroacetic acid, molten"
+3251,133,Isosorbide-5-mononitrate
+3252,115,Difluoromethane
+3252,115,Refrigerant gas R-32
+3253,154,Disodium trioxosilicate
+3254,135,Tributylphosphane
+3255,135,tert-Butyl hypochlorite
+3256,128,"Elevated temperature liquid,"
+3256,128,"Elevated temperature liquid,"
+3257,171,"Elevated temperature liquid,"
+3258,171,"Elevated temperature solid,"
+3259,154,"Amines, solid, corrosive, n.o.s."
+3259,154,"Polyamines, solid, corrosive,"
+3260,154,"Corrosive solid, acidic,"
+3261,154,"Corrosive solid, acidic, organic,"
+3262,154,"Corrosive solid, basic,"
+3263,154,"Corrosive solid, basic, organic,"
+3264,154,"Corrosive liquid, acidic,"
+3265,153,"Corrosive liquid, acidic, organic,"
+3266,154,"Corrosive liquid, basic,"
+3267,153,"Corrosive liquid, basic, organic,"
+3268,171,Air bag inflators
+3268,171,Air bag modules
+3268,171,Safety devices
+3268,171,Seat-belt pre-tensioners
+3269,128,"Polyester resin kit, liquid base"
+3270,133,Nitrocellulose membrane filters
+3271,127,"Ethers, n.o.s."
+3272,127,"Esters, n.o.s."
+3273,131,"Nitriles, flammable, poisonous,"
+3273,131,"Nitriles, flammable, toxic, n.o.s."
+3274,132,"Alcoholates solution, n.o.s., in"
+3275,131,"Nitriles, poisonous, flammable,"
+3275,131,"Nitriles, toxic, flammable, n.o.s."
+3276,151,"Nitriles, liquid, poisonous, n.o.s."
+3276,151,"Nitriles, liquid, toxic, n.o.s."
+3276,151,"Nitriles, poisonous, liquid,"
+3276,151,"Nitriles, toxic, liquid, n.o.s."
+3277,154,"Chloroformates, poisonous,"
+3277,154,"Chloroformates, toxic,"
+3278,151,"Organophosphorus compound,"
+3278,151,"Organophosphorus compound,"
+3279,131,"Organophosphorus compound,"
+3279,131,"Organophosphorus compound,"
+3281,151,"Metal carbonyls, liquid, n.o.s."
+3282,151,"Organometallic compound,"
+3282,151,"Organometallic compound,"
+3283,151,"Selenium compound, solid,"
+3284,151,"Tellurium compound, n.o.s."
+3285,151,"Vanadium compound, n.o.s."
+3286,131,"Flammable liquid, poisonous,"
+3286,131,"Flammable liquid, toxic,"
+3287,151,"Poisonous liquid, inorganic,"
+3287,151,"Toxic liquid, inorganic, n.o.s."
+3288,151,"Poisonous solid, inorganic,"
+3288,151,"Toxic solid, inorganic, n.o.s."
+3289,154,"Poisonous liquid, corrosive,"
+3289,154,"Toxic liquid, corrosive,"
+3290,154,"Poisonous solid, corrosive,"
+3290,154,"Toxic solid, corrosive,"
+3291,158,"(Bio)Medical waste, n.o.s."
+3291,158,"Clinical waste, unspecified,"
+3291,158,"Medical waste, n.o.s."
+3291,158,"Regulated medical waste, n.o.s."
+3292,138,"Batteries, containing metallic"
+3292,138,"Batteries, containing sodium"
+3292,138,"Cells, containing metallic"
+3292,138,"Cells, containing sodium"
+3293,153,"Hydrazine, aqueous solution,"
+3294,131,"Hydrogen cyanide, solution in"
+3295,128,"Hydrocarbons, liquid, n.o.s."
+3296,126,Heptafluoropropane
+3296,126,Refrigerant gas R-227
+3297,126,Ethylene oxide and
+3298,126,Ethylene oxide and
+3299,126,Ethylene oxide and
+3300,119P,Ethylene oxide and carbon
+3301,136,"Corrosive liquid, self-heating,"
+3302,152P,"2-Dimethylaminoethyl acrylate,"
+3303,124,"Compressed gas, poisonous,"
+3303,124,"Compressed gas, poisonous,"
+3303,124,"Compressed gas, poisonous,"
+3303,124,"Compressed gas, poisonous,"
+3303,124,"Compressed gas, toxic,"
+3303,124,"Compressed gas, toxic,"
+3303,124,"Compressed gas, toxic,"
+3303,124,"Compressed gas, toxic,"
+3303,124,"Compressed gas, toxic,"
+3304,125,"Compressed gas, poisonous,"
+3304,125,"Compressed gas, poisonous,"
+3304,125,"Compressed gas, poisonous,"
+3304,125,"Compressed gas, poisonous,"
+3304,125,"Compressed gas, poisonous,"
+3304,125,"Compressed gas, toxic,"
+3304,125,"Compressed gas, toxic,"
+3304,125,"Compressed gas, toxic,"
+3304,125,"Compressed gas, toxic,"
+3304,125,"Compressed gas, toxic,"
+3305,119,"Compressed gas, poisonous,"
+3305,119,"Compressed gas, poisonous,"
+3305,119,"Compressed gas, poisonous,"
+3305,119,"Compressed gas, poisonous,"
+3305,119,"Compressed gas, poisonous,"
+3305,119,"Compressed gas, toxic,"
+3305,119,"Compressed gas, toxic,"
+3305,119,"Compressed gas, toxic,"
+3305,119,"Compressed gas, toxic,"
+3305,119,"Compressed gas, toxic,"
+3306,124,"Compressed gas, poisonous,"
+3306,124,"Compressed gas, poisonous,"
+3306,124,"Compressed gas, poisonous,"
+3306,124,"Compressed gas, poisonous,"
+3306,124,"Compressed gas, toxic,"
+3306,124,"Compressed gas, toxic,"
+3306,124,"Compressed gas, toxic,"
+3306,124,"Compressed gas, toxic,"
+3306,124,"Compressed gas, toxic,"
+3307,124,"Liquefied gas, poisonous,"
+3307,124,"Liquefied gas, poisonous,"
+3307,124,"Liquefied gas, poisonous,"
+3307,124,"Liquefied gas, poisonous,"
+3307,124,"Liquefied gas, poisonous,"
+3307,124,"Liquefied gas, toxic, oxidizing,"
+3307,124,"Liquefied gas, toxic, oxidizing,"
+3307,124,"Liquefied gas, toxic, oxidizing,"
+3307,124,"Liquefied gas, toxic, oxidizing,"
+3307,124,"Liquefied gas, toxic, oxidizing,"
+3308,125,"Liquefied gas, poisonous,"
+3308,125,"Liquefied gas, poisonous,"
+3308,125,"Liquefied gas, poisonous,"
+3308,125,"Liquefied gas, poisonous,"
+3308,125,"Liquefied gas, poisonous,"
+3308,125,"Liquefied gas, toxic, corrosive,"
+3308,125,"Liquefied gas, toxic, corrosive,"
+3308,125,"Liquefied gas, toxic, corrosive,"
+3308,125,"Liquefied gas, toxic, corrosive,"
+3308,125,"Liquefied gas, toxic, corrosive,"
+3309,119,"Liquefied gas, poisonous,"
+3309,119,"Liquefied gas, poisonous,"
+3309,119,"Liquefied gas, poisonous,"
+3309,119,"Liquefied gas, poisonous,"
+3309,119,"Liquefied gas, toxic, flammable,"
+3309,119,"Liquefied gas, toxic, flammable,"
+3309,119,"Liquefied gas, toxic, flammable,"
+3309,119,"Liquefied gas, toxic, flammable,"
+3309,119,"Liquefied gas, toxic, flammable,"
+3310,124,"Liquefied gas, poisonous,"
+3310,124,"Liquefied gas, poisonous,"
+3310,124,"Liquefied gas, poisonous,"
+3310,124,"Liquefied gas, poisonous,"
+3310,124,"Liquefied gas, poisonous,"
+3310,124,"Liquefied gas, toxic, oxidizing,"
+3310,124,"Liquefied gas, toxic, oxidizing,"
+3310,124,"Liquefied gas, toxic, oxidizing,"
+3310,124,"Liquefied gas, toxic, oxidizing,"
+3310,124,"Liquefied gas, toxic, oxidizing,"
+3311,122,"Gas, refrigerated liquid,"
+3312,115,"Gas, refrigerated liquid,"
+3313,135,"Organic pigments, self-heating"
+3314,171,Plastic molding compound
+3314,171,Plastics moulding compound
+3315,151,"Chemical sample, poisonous"
+3315,151,"Chemical sample, toxic"
+3316,171,Chemical kit
+3316,171,First aid kit
+3317,113,"2-Amino-4,6-dinitrophenol,"
+3318,125,"Ammonia solution, with more"
+3319,113,"Nitroglycerin mixture,"
+3320,157,Sodium borohydride and sodium
+3321,162,"Radioactive material, low"
+3322,162,"Radioactive material, low"
+3323,163,"Radioactive material, Type C"
+3324,165,"Radioactive material, low"
+3326,165,"Radioactive material, surface"
+3327,165,"Radioactive material, Type A"
+3328,165,"Radioactive material, Type B(U)"
+3329,165,"Radioactive material, Type B(M)"
+3330,165,"Radioactive material, Type C"
+3331,165,"Radioactive material,"
+3332,164,"Radioactive material, Type A"
+3333,165,"Radioactive material, Type A"
+3334,171,"Aviation regulated liquid, n.o.s."
+3334,171,"Self-defense spray, non-"
+3335,171,"Aviation regulated solid, n.o.s."
+3336,130,"Mercaptan mixture, liquid,"
+3336,130,"Mercaptans, liquid, flammable,"
+3337,126,Refrigerant gas R-404A
+3338,126,Refrigerant gas R-407A
+3339,126,Refrigerant gas R-407B
+3340,126,Refrigerant gas R-407C
+3341,135,Thiourea dioxide
+3342,135,Xanthates
+3343,113,"Nitroglycerin mixture,"
+3344,113,Pentaerythrite tetranitrate
+3344,113,Pentaerythritol tetranitrate
+3344,113,"PETN mixture, desensitized,"
+3345,153,Phenoxyacetic acid derivative
+3345,153,Phenoxyacetic acid derivative
+3346,131,Phenoxyacetic acid derivative
+3346,131,Phenoxyacetic acid derivative
+3347,131,Phenoxyacetic acid derivative
+3347,131,Phenoxyacetic acid derivative
+3348,153,Phenoxyacetic acid derivative
+3348,153,Phenoxyacetic acid derivative
+3349,151,"Pyrethroid pesticide, solid,"
+3349,151,"Pyrethroid pesticide, solid, toxic"
+3350,131,"Pyrethroid pesticide, liquid,"
+3350,131,"Pyrethroid pesticide, liquid,"
+3351,131,"Pyrethroid pesticide, liquid,"
+3352,151,"Pyrethroid pesticide, liquid,"
+3352,151,"Pyrethroid pesticide, liquid,"
+3354,115,"Insecticide gas, flammable,"
+3355,119,"Insecticide gas, poisonous,"
+3355,119,"Insecticide gas, poisonous,"
+3355,119,"Insecticide gas, poisonous,"
+3355,119,"Insecticide gas, poisonous,"
+3355,119,"Insecticide gas, poisonous,"
+3355,119,"Insecticide gas, toxic,"
+3355,119,"Insecticide gas, toxic,"
+3355,119,"Insecticide gas, toxic,"
+3355,119,"Insecticide gas, toxic,"
+3355,119,"Insecticide gas, toxic,"
+3356,140,"Oxygen generator, chemical"
+3356,140,"Oxygen generator, chemical,"
+3357,113,"Nitroglycerin mixture,"
+3358,115,"Refrigerating machines,"
+3358,115,"Refrigerating machines,"
+3359,171,Fumigated cargo transport unit
+3360,133,"Fibers, vegetable, dry"
+3360,133,"Fibres, vegetable, dry"
+3361,156,"Chlorosilanes, poisonous,"
+3361,156,"Chlorosilanes, toxic, corrosive,"
+3362,155,"Chlorosilanes, poisonous,"
+3362,155,"Chlorosilanes, toxic, corrosive,"
+3363,171,Dangerous goods in apparatus
+3363,171,Dangerous goods in articles
+3363,171,Dangerous goods in machinery
+3364,113,"Picric acid, wetted with not less"
+3364,113,"Trinitrophenol, wetted with not"
+3365,113,"Picryl chloride, wetted with not"
+3365,113,"Trinitrochlorobenzene, wetted"
+3366,113,"TNT, wetted with not less than"
+3366,113,"Trinitrotoluene, wetted with not"
+3367,113,"Trinitrobenzene, wetted with not"
+3369,113,"Sodium dinitro-o-cresolate, wetted"
+3370,113,"Urea nitrate, wetted with not"
+3371,129,2-Methylbutanal
+3373,158,"Biological substance,"
+3374,116,"Acetylene, solvent free"
+3375,140,Ammonium nitrate emulsion
+3375,140,Ammonium nitrate gel
+3375,140,Ammonium nitrate suspension
+3376,113,"4-Nitrophenylhydrazine, with"
+3377,140,Sodium perborate monohydrate
+3378,140,Sodium carbonate
+3379,113,"Desensitized explosive, liquid,"
+3380,113,"Desensitized explosive, solid,"
+3381,151,"Poisonous by inhalation liquid,"
+3381,151,"Toxic by inhalation liquid, n.o.s."
+3382,151,"Poisonous by inhalation liquid,"
+3382,151,"Toxic by inhalation liquid, n.o.s."
+3383,131,"Poisonous by inhalation liquid,"
+3383,131,"Toxic by inhalation liquid,"
+3384,131,"Poisonous by inhalation liquid,"
+3384,131,"Toxic by inhalation liquid,"
+3385,139,Poisonous by inhalation
+3385,139,"Toxic by inhalation liquid,"
+3386,139,Poisonous by inhalation
+3386,139,"Toxic by inhalation liquid,"
+3387,142,"Poisonous by inhalation liquid,"
+3387,142,"Toxic by inhalation liquid,"
+3388,142,"Poisonous by inhalation liquid,"
+3388,142,"Toxic by inhalation liquid,"
+3389,154,"Poisonous by inhalation liquid,"
+3389,154,"Toxic by inhalation liquid,"
+3390,154,"Poisonous by inhalation liquid,"
+3390,154,"Toxic by inhalation liquid,"
+3392,135,"Organometallic substance,"
+3393,135,"Organometallic substance,"
+3394,135,"Organometallic substance,"
+3395,135,"Organometallic substance,"
+3396,138,"Organometallic substance,"
+3397,138,"Organometallic substance,"
+3398,135,"Organometallic substance,"
+3399,138,"Organometallic substance,"
+3400,138,"Organometallic substance,"
+3401,138,"Alkali metal amalgam, solid"
+3402,138,"Alkaline earth metal amalgam,"
+3403,138,"Potassium metal alloys, solid"
+3404,138,"Potassium sodium alloys, solid"
+3405,141,"Barium chlorate, solution"
+3406,141,"Barium perchlorate, solution"
+3407,140,Chlorate and magnesium
+3408,141,"Lead perchlorate, solution"
+3409,152,"Chloronitrobenzenes, liquid"
+3410,153,4-Chloro-o-toluidine
+3411,153,"beta-Naphthylamine, solution"
+3411,153,"Naphthylamine (beta), solution"
+3412,153,"Formic acid, with not less than"
+3412,153,"Formic acid, with not less than"
+3413,157,"Potassium cyanide, solution"
+3414,157,"Sodium cyanide, solution"
+3415,154,"Sodium fluoride, solution"
+3416,153,"Chloroacetophenone, liquid"
+3417,152,"Xylyl bromide, solid"
+3418,151,"2,4-Toluenediamine, solution"
+3418,151,"2,4-Toluylenediamine, solution"
+3419,157,Boron trifluoride acetic acid
+3420,157,Boron trifluoride propionic acid
+3421,154,"Potassium hydrogen difluoride,"
+3422,154,"Potassium fluoride, solution"
+3423,153,Tetramethylammonium
+3424,141,"Ammonium dinitro-o-cresolate,"
+3425,156,"Bromoacetic acid, solid"
+3426,153P,"Acrylamide, solution"
+3427,153,"Chlorobenzyl chlorides, solid"
+3428,156,3-Chloro-4-methylphenyl
+3429,153,"Chlorotoluidines, liquid"
+3430,153,"Xylenols, liquid"
+3431,152,"Nitrobenzotrifluorides, solid"
+3432,171,"PCB, solid"
+3432,171,"Polychlorinated biphenyls, solid"
+3434,153,"Nitrocresols, liquid3436 151 Hexafluoroacetone hydrate,"
+3437,152,"Chlorocresols, solid"
+3438,153,"alpha-Methylbenzyl alcohol,"
+3438,153,"Methylbenzyl (alpha) alcohol,"
+3439,151,"Nitriles, solid, poisonous, n.o.s."
+3439,151,"Nitriles, solid, toxic, n.o.s."
+3440,151,"Selenium compound, liquid,"
+3441,153,"Chlorodinitrobenzenes, solid"
+3442,153,"Dichloroanilines, solid"
+3443,152,"Dinitrobenzenes, solid"
+3444,151,"Nicotine hydrochloride, solid"
+3445,151,"Nicotine sulfate, solid"
+3445,151,"Nicotine sulphate, solid"
+3446,152,"Nitrotoluenes, solid"
+3447,152,"Nitroxylenes, solid"
+3448,159,"Tear gas substance, solid,"
+3449,159,"Bromobenzyl cyanides, solid"
+3450,151,"Diphenylchloroarsine, solid"
+3451,153,"Toluidines, solid"
+3452,153,"Xylidines, solid"
+3453,154,"Phosphoric acid, solid"
+3454,152,"Dinitrotoluenes, solid"
+3455,153,"Cresols, solid"
+3456,157,"Nitrosylsulfuric acid, solid"
+3456,157,"Nitrosylsulphuric acid, solid"
+3457,152,"Chloronitrotoluenes, solid"
+3458,152,"Nitroanisoles, solid"
+3459,152,"Nitrobromobenzenes, solid"
+3460,153,"N-Ethylbenzyltoluidines, solid"
+3462,152,"Toxins, extracted from living"
+3463,153,"Propionic acid, with not less"
+3464,151,"Organophosphorus compound,"
+3464,151,"Organophosphorus compound,"
+3465,151,"Organoarsenic compound, solid,"
+3466,151,"Metal carbonyls, solid, n.o.s."
+3467,151,"Organometallic compound,"
+3467,151,"Organometallic compound,"
+3468,115,Hydrogen in a metal hydride
+3468,115,Hydrogen in a metal hydride
+3468,115,Hydrogen in a metal hydride
+3469,132,"Paint, flammable, corrosive"
+3469,132,"Paint related material,"
+3470,132,"Paint, corrosive, flammable"
+3470,132,"Paint related material,"
+3471,154,"Hydrogendifluorides, solution,"
+3472,153,"Crotonic acid, liquid"
+3473,128,"Fuel cell cartridges, containing"
+3473,128,Fuel cell cartridges contained
+3473,128,Fuel cell cartridges packed
+3475,127,"Ethanol and gasoline mixture,"
+3475,127,Ethanol and motor spirit
+3475,127,"Ethanol and petrol mixture, with"
+3476,138,"Fuel cell cartridges, containing"
+3476,138,Fuel cell cartridges contained in
+3476,138,Fuel cell cartridges packed with
+3477,153,"Fuel cell cartridges, containing"
+3477,153,Fuel cell cartridges contained
+3477,153,Fuel cell cartridges packed
+3478,115,"Fuel cell cartridges, containing"
+3478,115,Fuel cell cartridges contained
+3478,115,Fuel cell cartridges packed
+3479,115,"Fuel cell cartridges, containing"
+3479,115,Fuel cell cartridges contained
+3479,115,Fuel cell cartridges packed
+3480,147,Lithium ion batteries (including
+3481,147,Lithium ion batteries contained
+3481,147,Lithium ion batteries packed
+3482,138,"Alkali metal dispersion,"
+3482,138,"Alkaline earth metal dispersion,"
+3483,131,"Motor fuel anti-knock mixture,"
+3484,132,"Hydrazine aqueous solution,"
+3485,140,"Calcium hypochlorite, dry,"
+3485,140,"Calcium hypochlorite mixture,"
+3486,140,"Calcium hypochlorite mixture,"
+3487,140,"Calcium hypochlorite, hydrated,"
+3487,140,"Calcium hypochlorite, hydrated"
+3488,131,"Poisonous by inhalation liquid,"
+3488,131,"Toxic by inhalation liquid,"
+3489,131,"Toxic by inhalation liquid,"
+3490,155,"Poisonous by inhalation liquid,"
+3490,155,"Toxic by inhalation liquid, water-"
+3491,155,"Poisonous by inhalation liquid,"
+3491,155,"Toxic by inhalation liquid, water-"
+3492,131,"Poisonous by inhalation liquid,"
+3492,131,"Toxic by inhalation liquid,"
+3493,131,"Poisonous by inhalation liquid,"
+3493,131,"Toxic by inhalation liquid,"
+3494,131,"Petroleum sour crude oil,"
+3494,131,"Petroleum sour crude oil,"
+3495,154,Iodine
+3496,171,"Batteries, nickel-metal hydride"
+3497,133,Krill meal
+3498,157,"Iodine monochloride, liquid"
+3499,171,"Capacitor, electric double layer"
+3500,126,"Chemical under pressure, n.o.s."
+3501,115,"Chemical under pressure,"
+3502,123,"Chemical under pressure,"
+3502,123,"Chemical under pressure, toxic,"
+3503,125,"Chemical under pressure,"
+3504,119,"Chemical under pressure,"
+3504,119,"Chemical under pressure,"
+3505,118,"Chemical under pressure,"
+3506,172,Mercury contained in
+3507,166,"Uranium hexafluoride,"
+3508,171,"Capacitor, asymmetric"
+3509,171,"Packagings discarded, empty,"
+3510,174,"Adsorbed gas, flammable, n.o.s."
+3511,174,"Adsorbed gas, n.o.s."
+3512,173,"Adsorbed gas, poisonous, n.o.s."
+3512,173,"Adsorbed gas, poisonous, n.o.s."
+3512,173,"Adsorbed gas, poisonous, n.o.s."
+3512,173,"Adsorbed gas, poisonous, n.o.s."
+3512,173,"Adsorbed gas, poisonous, n.o.s."
+3512,173,"Adsorbed gas, toxic, n.o.s."
+3512,173,"Adsorbed gas, toxic, n.o.s."
+3512,173,"Adsorbed gas, toxic, n.o.s."
+3512,173,"Adsorbed gas, toxic, n.o.s."
+3513,174,"Adsorbed gas, oxidizing, n.o.s."
+3514,173,"Adsorbed gas, poisonous,"
+3514,173,"Adsorbed gas, poisonous,"
+3514,173,"Adsorbed gas, poisonous,"
+3514,173,"Adsorbed gas, poisonous,"
+3514,173,"Adsorbed gas, poisonous,"
+3514,173,"Adsorbed gas, toxic, flammable,"
+3514,173,"Adsorbed gas, toxic, flammable,"
+3514,173,"Adsorbed gas, toxic, flammable,"
+3514,173,"Adsorbed gas, toxic, flammable,"
+3514,173,"Adsorbed gas, toxic, flammable,"
+3515,173,"Adsorbed gas, poisonous,"
+3515,173,"Adsorbed gas, poisonous,"
+3515,173,"Adsorbed gas, poisonous,"
+3515,173,"Adsorbed gas, poisonous,"
+3515,173,"Adsorbed gas, poisonous,"
+3515,173,"Adsorbed gas, toxic, oxidizing,"
+3515,173,"Adsorbed gas, toxic, oxidizing,"
+3515,173,"Adsorbed gas, toxic, oxidizing,"
+3515,173,"Adsorbed gas, toxic, oxidizing,"
+3515,173,"Adsorbed gas, toxic, oxidizing,"
+3516,173,"Adsorbed gas, poisonous,"
+3516,173,"Adsorbed gas, poisonous,"
+3516,173,"Adsorbed gas, poisonous,"
+3516,173,"Adsorbed gas, poisonous,"
+3516,173,"Adsorbed gas, poisonous,"
+3516,173,"Adsorbed gas, toxic, corrosive,"
+3516,173,"Adsorbed gas, toxic, corrosive,"
+3516,173,"Adsorbed gas, toxic, corrosive,"
+3516,173,"Adsorbed gas, toxic, corrosive,"
+3517,173,"Adsorbed gas, poisonous,"
+3517,173,"Adsorbed gas, poisonous,"
+3517,173,"Adsorbed gas, poisonous,"
+3517,173,"Adsorbed gas, poisonous,"
+3517,173,"Adsorbed gas, poisonous,"
+3517,173,"Adsorbed gas, toxic, flammable,"
+3517,173,"Adsorbed gas, toxic, flammable,"
+3517,173,"Adsorbed gas, toxic, flammable,"
+3517,173,"Adsorbed gas, toxic, flammable,"
+3517,173,"Adsorbed gas, toxic, flammable,"
+3518,173,"Adsorbed gas, poisonous,"
+3518,173,"Adsorbed gas, poisonous,"
+3518,173,"Adsorbed gas, poisonous,"
+3518,173,"Adsorbed gas, poisonous,"
+3518,173,"Adsorbed gas, poisonous,"
+3518,173,"Adsorbed gas, toxic, oxidizing,"
+3518,173,"Adsorbed gas, toxic, oxidizing,"
+3518,173,"Adsorbed gas, toxic, oxidizing,"
+3518,173,"Adsorbed gas, toxic, oxidizing,"
+3518,173,"Adsorbed gas, toxic, oxidizing,"
+3519,173,"Boron trifluoride, adsorbed"
+3520,173,"Chlorine, adsorbed"
+3521,173,"Silicon tetrafluoride, adsorbed"
+3522,173,"Arsine, adsorbed"
+3523,173,"Germane, adsorbed"
+3524,173,"Phosphorus pentafluoride,"
+3525,173,"Phosphine, adsorbed"
+3526,173,"Hydrogen selenide, adsorbed"
+3527,128P,"Polyester resin kit, solid base"
+3528,128,"Engine, fuel cell, flammable"
+3528,128,"Engine, internal combustion,"
+3528,128,"Machinery, fuel cell, flammable"
+3529,115,"Engine, fuel cell, flammable gas"
+3529,115,"Engine, internal combustion,"
+3529,115,"Machinery, fuel cell, flammable"
+3529,115,"Machinery, internal combustion,"
+3530,171,"Engine, internal combustion"
+3530,171,"Machinery, internal combustion"
+3531,149P,"Polymerizing substance, solid,"
+3532,149P,"Polymerizing substance, liquid,"
+3533,150P,"Polymerizing substance, solid,"
+3534,150P,"Polymerizing substance, liquid,"
+3535,134,"Toxic solid, flammable,"
+3536,147,Lithium batteries installed in
+3536,138,Lithium batteries installed in
+3537,115,Articles containing flammable
+3538,120,Articles containing non-
+3539,123,"Articles containing toxic gas,"
+3540,127,Articles containing flammable
+3541,133,Articles containing flammable
+3542,135,Articles containing a substance
+3543,138,Articles containing a substance
+3544,140,Articles containing oxidizing
+3545,145,Articles containing organic
+3546,151,Articles containing toxic
+3547,154,Articles containing corrosive
+3548,171,Articles containing
+3549,158,"Medical waste, category A,"
+3549,158,"Medical waste, category A,"
+3550,151,Cobalt dihydroxide powder
+3551,147,Sodium ion batteries
+3552,147,Sodium ion batteries contained
+3552,147,Sodium ion batteries packed
+3553,116,Disilane
+3554,172,Gallium contained in
+3555,113,Trifluoromethyltetrazole-sodium
+3556,147,"Vehicle, lithium ion battery"
+3557,138,"Vehicle, lithium metal battery"
+3558,147,"Vehicle, sodium ion battery"
+3559,171,Fire suppressant dispersing
+8000,171,Consumer commodity
+9035,123,Gas identification set
+9191,143,"Chlorine dioxide, hydrate,"
+9202,168,"Carbon monoxide, refrigerated"
+9206,137,Methyl phosphonic dichloride
+9260,169,"Aluminum, molten"
+9263,156,Chloropivaloyl chloride
+9264,151,"3,5-Dichloro-2,4,6-"
+9269,132,Trimethoxysilane
