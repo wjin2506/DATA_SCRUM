@@ -3,8 +3,8 @@
 ## 개요
 해양 화물 위험 분석 및 응급 의학 가이드라인 자동 생성 시스템
 
-물 관련 : UN Cargo list, MSDS, IMO Guideline 등 책자 활용
-의료 관련 : Tintinalli’s Emergency Medicine: A Comprehensive Study Guide,Rosen’s Emergency Medicine: Concepts and Clinical Practice 등 책자 데이터 기반 제미나이 데이터 추가 추출
+- **화물 관련 : UN Cargo list, MSDS, IMO Guideline 등 책자 활용
+- **의료 관련 : Tintinalli’s Emergency Medicine: A Comprehensive Study Guide,Rosen’s Emergency Medicine: Concepts and Clinical Practice               등 책자 데이터 기반 제미나이 데이터 추가 추출
 
 ## 주요 기능
 - **자동 재시작**: 5분 이상 비활성 시 자동 중단 후 재시작
